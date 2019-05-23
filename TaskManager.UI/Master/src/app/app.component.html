@@ -1,0 +1,15 @@
+<nav class="navbar navbar-dark">
+  <div class="navbar-header">
+    <a href="#"><h1>Task Manager</h1></a>
+  </div>
+  <div class="container-fluid">
+    <ul class="nav navbar-nav">
+        <li><a class="active" routerLink="/add" style="cursor: pointer;">Add task</a></li>
+        <li><a style="cursor: pointer;" routerLink="/view">View task</a></li>
+    </ul>
+  </div>
+</nav>
+
+<div class="container">
+    <router-outlet></router-outlet>
+</div>

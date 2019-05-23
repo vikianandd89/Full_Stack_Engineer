@@ -1,0 +1,96 @@
+<div class="container">
+    <div class="panel panel-primary">
+        <div class="panel-heading">View Tasks</div>
+        <div class="panel-body">
+            <form class="form-horizontal">
+                <div class="form-group">
+                    <label class="control-label col-sm-2" style="text-align: left"  for="taskName">Task:</label>
+                    <div class="col-sm-4">
+                        <input type="text" class="form-control" id="taskName" name="taskName" 
+                        [(ngModel)]="nameSearch">
+                    </div>
+                    <label class="control-label col-sm-2" style="text-align: left"  for="parenttaskName">Parent Task:</label>
+                    <div class="col-sm-4">
+                        <input type="text" class="form-control" id="parenttaskName" name="parenttaskName" 
+                        [(ngModel)]="parentTaskSearch">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="control-label col-sm-2" style="text-align: left"   for="priorityFrom">Priority From:</label>
+                    <div class="col-sm-3">
+                        <input type="number" class="form-control" min="1" max="30" id="priorityFrom"
+                            name="priorityFrom"  [(ngModel)]="priorityFromSearch">
+                    </div>
+                    <label class="control-label col-sm-2" style="text-align: left" for="priorityTo">Priority To:</label>
+                    <div class="col-sm-3">
+                        <input type="number" class="form-control"  min="1" max="30" id="priorityTo"
+                        name="priorityTo"  [(ngModel)]="priorityToSearch">
+                    </div>
+                    <label class="control-label col-sm-2" style="text-align: left"  for="startDate">Start Date:</label>
+                    <div class="col-sm-3">
+                        <input  type="date" class="form-control" id="startDate" name="startDate" 
+                        [(ngModel)]="startDateSearch">
+                    </div>
+                    <label class="control-label col-sm-2" style="text-align: left"  for="endDate">End Date:</label>
+                    <div class="col-sm-3">
+                        <input type="date" class="form-control" id="endDate" name="endDate" 
+                        [(ngModel)]="endDateSearch">
+                    </div>
+                </div>
+            </form>
+            <br/>
+            <p class="alert alert-danger" *ngIf="showError">{{results}}</p>
+            <div class="row col-md-12 col-md-offset-0">
+                <table class="table table-hover">
+                    <tbody *ngFor="let taskDetail of taskDetailsFiltered | 
+                        searchPipe: nameSearch:parentTaskSearch:priorityFromSearch:priorityToSearch:startDateSearch:endDateSearch">
+                        <tr>
+                            <th>Task</th>
+                            <th>Parent</th>
+                            <th>Priority</th>
+                            <th>Start</th>
+                            <th>End</th>      
+                            <th></th>        
+                        </tr>
+                        <tr>
+                            <td>{{taskDetail.name}}<input type="hidden" [(ngModel)]="taskDetail.id" #taskId></td>
+                            <td>{{taskDetail.parentName}}</td>
+                            <td>{{taskDetail.priority}}</td>
+                            <td>{{taskDetail.startDate|date:'dd/MM/yyyy'}}</td>
+                            <td>{{taskDetail.endDate|date :'dd/MM/yyyy'}}</td>
+                            <td class="text-center">
+                                <a class='btn btn-info btn-xs' *ngIf="!taskDetail.endTask" 
+                                    (click)="edit(taskDetail.id)">
+                                    <span class="glyphicon glyphicon-edit"></span>Edit</a>
+                                <a class='btn btn-info btn-xs' disabled *ngIf="taskDetail.endTask">
+                                    <span class="glyphicon glyphicon-edit"></span> Edit</a> &nbsp;
+                                <a (click)="endTask(taskDetail.id)" *ngIf="!taskDetail.endTask" class="btn btn-danger btn-xs">
+                                    <span class="glyphicon glyphicon-remove"></span> End Task</a>
+                                <a disabled *ngIf="taskDetail.endTask" class="btn btn-danger btn-xs">
+                                    <span class="glyphicon glyphicon-remove"></span> End Task</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <button type="button" #showmodal  class="btn btn-info btn-lg" style="display: none;"
+                id="showmodal" data-toggle="modal" data-target="#modalPopUp">Open Modal</button>
+            <div id="modalPopUp" class="modal fade" role="dialog">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close"  (click) ="closeModal()" data-dismiss="modal">&times;</button>
+                            <h4 class="modal-title">Alert</h4>
+                        </div>
+                        <div class="modal-body">
+                            <p><strong>{{this.results}}</strong></p>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-default" (click) ="closeModal()" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,72 @@
+<div class="container col-md-8">  
+        <div class="panel panel-primary">
+            <div class="panel-heading">Add Task</div>
+            <div class="panel-body">
+        <form class="form-horizontal" #f="ngForm">
+          <div class="form-group row">
+            <label class="control-label col-sm-2" for="taskName">Task:</label>
+            <div class="col-sm-5">
+              <input type="text" class="form-control" id="taskName" name="taskName" 
+               [(ngModel)]="taskDetail.name" required placeholder="Enter Task">
+            </div>
+          </div>
+          <div class="form-group row">
+              <label class="control-label col-sm-2" for="taskpriority">Priority:(0-30)</label>      
+              <div class="col-sm-5 slidecontainer">       
+              <input type="range" min="1" max="30"
+               [(ngModel)]="taskDetail.priority" required class="slider" id="rangePriority" name="rangePriority"></div>      
+            </div>
+            <div class="form-group row">
+                <label class="control-label col-sm-2" for="taskStartDate">Parent Task:</label>
+                <div class="col-sm-5"> 
+          
+                    <select class="form-control" id="parentTask" name="parentTask" [(ngModel)]="taskDetail.parentTaskId">
+                        <option [ngValue]="undefined" selected>Please Select Parent Task</option>
+                        <option *ngFor="let taskDetail of taskDetails" value="{{taskDetail.id}}">{{taskDetail.name}}</option>
+                      </select>      
+                </div>
+              </div>   
+          <div class="form-group row">
+            <label class="control-label col-sm-2" for="taskStartDate">Start Date:</label>
+            <div class="col-sm-5"> 
+              <input type="date" class="form-control" id="taskStartDate" [(ngModel)]="taskDetail.startDate"
+               name = "taskStartDate" required placeholder="Enter start date">
+            </div>
+          </div>
+          <div class="form-group row">
+            <label class="control-label col-sm-2" for="taskEndDate">End Date:</label>
+            <div class="col-sm-5"> 
+              <input type="date" class="form-control"  [(ngModel)]="taskDetail.endDate" id="taskEndDate"
+               name="taskEndDate" required placeholder="Enter end date">
+            </div>
+          </div>
+          <div class="form-group row"> 
+            <div class="col-sm-2"></div>
+            <div class="col-sm-5">
+              <button type="submit"  [disabled]="!f.valid" (click)="onAddTask()" class="btn btn-primary">Add Task</button> &nbsp;
+              <button type="button" class="btn btn-warning"  (click)="onResetTask()">Reset</button>
+            </div>
+          </div>
+      
+          <button type="button" #showmodal  class="btn btn-info btn-lg" style="display: none;"
+           id="showmodal" data-toggle="modal" data-target="#modalPopUp">Open Modal</button>
+          <div id="modalPopUp" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close"  (click) ="closeModal()" data-dismiss="modal">&times;</button>
+                  <h4 class="modal-title">Task Manager Alert</h4>
+                </div>
+                <div class="modal-body">
+                  <p><strong>{{this.results}}</strong></p>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-default" (click) ="closeModal()" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+</div>

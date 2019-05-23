@@ -1,0 +1,75 @@
+<div class="container">  
+    <div class="panel panel-primary">
+        <div class="panel-heading">Update Task</div>
+        <div class="panel-body">
+    <form class="form-horizontal" #f="ngForm">
+        <p class="alert alert-danger" *ngIf="showError">{{results}}</p>
+      <div class="form-group">
+        <label class="control-label col-sm-2" for="taskName">Task:</label>
+        <div class="col-sm-4">
+          <input type="text" class="form-control" id="taskName" name="taskName" 
+           [(ngModel)]="taskDetail.name" required placeholder="Enter Task">
+        </div>
+      </div>
+      <div class="form-group">
+          <label class="control-label col-sm-2" for="taskpriority">Priority:(0-30)</label>      
+          <div class="col-sm-4 slidecontainer">       
+          <input type="range" min="1" max="30"
+           [(ngModel)]="taskDetail.priority" required class="slider" id="rangePriority" name="rangePriority"></div>      
+        </div>
+        <div class="form-group">
+            <label class="control-label col-sm-2" for="parentTask">Parent Task:</label>
+            <div class="col-sm-4"> 
+                <select class="form-control" id="parentTask" name="parentTask" [(ngModel)]="taskDetail.parentTaskId">
+                    <option [ngValue]="null" selected>Please Select Parent Task</option>
+                    <option *ngFor="let taskDetail of taskDetails" value="{{taskDetail.id}}">{{taskDetail.name}}</option>
+                </select>      
+            </div>
+          </div>   
+      <div class="form-group">
+        <label class="control-label col-sm-2" for="taskStartDate">Start Date:</label>
+        <div class="col-sm-4"> 
+          <input type="date" class="form-control" id="taskStartDate" 
+          [ngModel]="taskDetail.startDate |date :'yyyy-MM-dd'"
+           name = "taskStartDate" required placeholder="Enter start date"  [(ngModel)]="taskDetail.startDate">
+        </div>
+      </div>
+      <div class="form-group">
+        <label class="control-label col-sm-2" for="taskEndDate">End Date:</label>
+        <div class="col-sm-4"> 
+          <input type="date" class="form-control"  [ngModel]="taskDetail.endDate |date :'yyyy-MM-dd'"
+           id="taskEndDate"
+           name="taskEndDate" required placeholder="Enter end date" [(ngModel)]="taskDetail.endDate">
+        </div>
+      </div>
+      <div class="form-group"> 
+        <div class="col-sm-2"></div>
+        <div class="col-sm-4">
+          <button type="submit"  [disabled]="!f.valid" (click)="onUpdateTask()" class="btn btn-primary">Update</button> &nbsp;
+          <button type="button" class="btn btn-warning"  (click)="onCancel()">Cancel</button>
+        </div>
+      </div>
+  
+      <button type="button" #showmodal  class="btn btn-info btn-lg" style="display: none;"
+       data-toggle="modal" data-target="#modalPopUp">Open Modal</button>
+  
+      <div id="modalPopUp" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h4 class="modal-title">Alert</h4>
+              <button type="button" class="close"  (click)="closeModal()" data-dismiss="modal">&times;</button>
+            </div>
+            <div class="modal-body">
+              <p><strong>{{this.results}}</strong></p>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" (click) ="closeModal()" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>
+  </div>

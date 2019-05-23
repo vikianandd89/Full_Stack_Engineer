@@ -1,0 +1,54 @@
+2019-04-17 14:54:11.7829 Info Message Template Auto Format enabled
+2019-04-17 14:54:11.7925 Info Loading assembly: NLog.Web.AspNetCore
+2019-04-17 14:54:11.8771 Info Adding target File Target[allfile]
+2019-04-17 14:54:11.9020 Info Adding target File Target[ownFile-web]
+2019-04-17 14:54:11.9020 Info Configured from an XML element in C:\AnandaKrishnan\TaskManager.API\TaskManager.API\bin\Debug\netcoreapp2.1\nlog.config...
+2019-04-17 14:54:11.9314 Info Found 45 configuration items
+2019-04-17 14:56:21.9511 Info Message Template Auto Format enabled
+2019-04-17 14:56:21.9742 Info Loading assembly: NLog.Web.AspNetCore
+2019-04-17 14:56:22.0442 Info Adding target File Target[allfile]
+2019-04-17 14:56:22.0607 Info Adding target File Target[ownFile-web]
+2019-04-17 14:56:22.0769 Info Configured from an XML element in C:\AnandaKrishnan\TaskManager.API\TaskManager.API\bin\Debug\netcoreapp2.1\nlog.config...
+2019-04-17 14:56:22.0952 Info Found 45 configuration items
+2019-04-20 02:01:34.5971 Info Message Template Auto Format enabled
+2019-04-20 02:01:34.6053 Info Loading assembly: NLog.Web.AspNetCore
+2019-04-20 02:01:34.6855 Info Adding target File Target[allfile]
+2019-04-20 02:01:34.7061 Info Adding target File Target[ownFile-web]
+2019-04-20 02:01:34.7152 Info Configured from an XML element in C:\AnandaKrishnan\TaskManager.API\TaskManager.API\bin\Debug\netcoreapp2.1\nlog.config...
+2019-04-20 02:01:34.7340 Info Found 45 configuration items
+2019-04-27 00:33:23.1545 Info Message Template Auto Format enabled
+2019-04-27 00:33:23.1684 Info Loading assembly: NLog.Web.AspNetCore
+2019-04-27 00:33:23.2986 Info Adding target File Target[allfile]
+2019-04-27 00:33:23.3263 Info Adding target File Target[ownFile-web]
+2019-04-27 00:33:23.3417 Info Configured from an XML element in C:\AnandaKrishnan\TaskManager.API\TaskManager.API\bin\Debug\netcoreapp2.1\nlog.config...
+2019-04-27 00:33:23.3610 Info Found 45 configuration items
+2019-04-27 00:33:28.9550 Info Message Template Auto Format enabled
+2019-04-27 00:33:28.9644 Info Loading assembly: NLog.Web.AspNetCore
+2019-04-27 00:33:29.0130 Info Adding target File Target[allfile]
+2019-04-27 00:33:29.0130 Info Adding target File Target[ownFile-web]
+2019-04-27 00:33:29.0245 Info Configured from an XML element in C:\AnandaKrishnan\TaskManager.API\TaskManager.API\bin\Debug\netcoreapp2.1\nlog.config...
+2019-04-27 00:33:29.0413 Info Found 45 configuration items
+2019-04-27 00:50:45.9705 Info Message Template Auto Format enabled
+2019-04-27 00:50:45.9705 Info Loading assembly: NLog.Web.AspNetCore
+2019-04-27 00:50:46.0683 Info Adding target File Target[allfile]
+2019-04-27 00:50:46.0858 Info Adding target File Target[ownFile-web]
+2019-04-27 00:50:46.1008 Info Configured from an XML element in C:\AnandaKrishnan\TaskManager.API\TaskManager.API\bin\Debug\netcoreapp2.1\nlog.config...
+2019-04-27 00:50:46.1223 Info Found 45 configuration items
+2019-05-22 15:40:00.7020 Info Message Template Auto Format enabled
+2019-05-22 15:40:00.7121 Info Loading assembly: NLog.Web.AspNetCore
+2019-05-22 15:40:00.7787 Info Adding target File Target[allfile]
+2019-05-22 15:40:00.7944 Info Adding target File Target[ownFile-web]
+2019-05-22 15:40:00.8022 Info Configured from an XML element in C:\AnandaKrishnan\TaskManager.API\TaskManager.API\bin\Debug\netcoreapp2.1\nlog.config...
+2019-05-22 15:40:00.8226 Info Found 45 configuration items
+2019-05-22 15:41:14.2259 Info Message Template Auto Format enabled
+2019-05-22 15:41:14.2259 Info Loading assembly: NLog.Web.AspNetCore
+2019-05-22 15:41:14.3002 Info Adding target File Target[allfile]
+2019-05-22 15:41:14.3143 Info Adding target File Target[ownFile-web]
+2019-05-22 15:41:14.3217 Info Configured from an XML element in C:\AnandaKrishnan\TaskManager.API\TaskManager.API\bin\Debug\netcoreapp2.1\nlog.config...
+2019-05-22 15:41:14.3379 Info Found 45 configuration items
+2019-05-22 18:14:57.2822 Info Message Template Auto Format enabled
+2019-05-22 18:14:57.2906 Info Loading assembly: NLog.Web.AspNetCore
+2019-05-22 18:14:57.3395 Info Adding target File Target[allfile]
+2019-05-22 18:14:57.3395 Info Adding target File Target[ownFile-web]
+2019-05-22 18:14:57.3509 Info Configured from an XML element in C:\AnandaKrishnan\TaskManager.API\TaskManager.API\bin\Debug\netcoreapp2.1\nlog.config...
+2019-05-22 18:14:57.3681 Info Found 45 configuration items

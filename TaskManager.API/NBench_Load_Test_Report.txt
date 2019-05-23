@@ -1,0 +1,3234 @@
+Microsoft Windows [Version 10.0.10240]
+(c) 2015 Microsoft Corporation. All rights reserved.
+
+C:\Users\Administrator\.nuget\packages\nbench.runner\1.2.2\tools\netcoreapp2.1>NBench.Runner.exe C:\AnandaKrishnan\TaskManager.NBench\TaskManager.NBench\bin\Debug\netcoreapp2.1\TaskManager.NBench.dll
+Executing Benchmarks in C:\AnandaKrishnan\TaskManager.NBench\TaskManager.NBench\bin\Debug\netcoreapp2.1\TaskManager.NBench.dll
+------------ STARTING TaskManager.NBench.NBenchTest+BenchmarkMethod_ElapsedTime ----------
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9025978
+TotalBytesAllocated - bytes: 481,200.00 ,bytes: /s 533,127.82 , ns / bytes: 1,875.72
+Elapsed Time - ms: 902.00 ,ms: /s 999.34 , ns / ms: 1,000,662.75
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7834829
+TotalBytesAllocated - bytes: 473,192.00 ,bytes: /s 603,959.58 , ns / bytes: 1,655.74
+Elapsed Time - ms: 784.00 ,ms: /s 1,000.66 , ns / ms: 999,340.43
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.4698699
+TotalBytesAllocated - bytes: 481,448.00 ,bytes: /s 327,544.64 , ns / bytes: 3,053.02
+Elapsed Time - ms: 1,470.00 ,ms: /s 1,000.09 , ns / ms: 999,911.50
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8662743
+TotalBytesAllocated - bytes: 505,568.00 ,bytes: /s 583,611.91 , ns / bytes: 1,713.47
+Elapsed Time - ms: 867.00 ,ms: /s 1,000.84 , ns / ms: 999,162.98
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9829953
+TotalBytesAllocated - bytes: 481,168.00 ,bytes: /s 489,491.66 , ns / bytes: 2,042.94
+Elapsed Time - ms: 983.00 ,ms: /s 1,000.00 , ns / ms: 999,995.22
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0215255
+TotalBytesAllocated - bytes: 471,136.00 ,bytes: /s 461,208.26 , ns / bytes: 2,168.22
+Elapsed Time - ms: 1,021.00 ,ms: /s 999.49 , ns / ms: 1,000,514.69
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9085080
+TotalBytesAllocated - bytes: 471,520.00 ,bytes: /s 519,004.79 , ns / bytes: 1,926.76
+Elapsed Time - ms: 909.00 ,ms: /s 1,000.54 , ns / ms: 999,458.75
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8022584
+TotalBytesAllocated - bytes: 472,968.00 ,bytes: /s 589,545.71 , ns / bytes: 1,696.22
+Elapsed Time - ms: 803.00 ,ms: /s 1,000.92 , ns / ms: 999,076.46
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9411110
+TotalBytesAllocated - bytes: 473,160.00 ,bytes: /s 502,767.47 , ns / bytes: 1,988.99
+Elapsed Time - ms: 941.00 ,ms: /s 999.88 , ns / ms: 1,000,117.96
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9268674
+TotalBytesAllocated - bytes: 467,184.00 ,bytes: /s 504,046.21 , ns / bytes: 1,983.95
+Elapsed Time - ms: 927.00 ,ms: /s 1,000.14 , ns / ms: 999,856.96
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7798689
+TotalBytesAllocated - bytes: 470,056.00 ,bytes: /s 602,737.20 , ns / bytes: 1,659.10
+Elapsed Time - ms: 780.00 ,ms: /s 1,000.17 , ns / ms: 999,831.92
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8860318
+TotalBytesAllocated - bytes: 470,640.00 ,bytes: /s 531,177.32 , ns / bytes: 1,882.61
+Elapsed Time - ms: 886.00 ,ms: /s 999.96 , ns / ms: 1,000,035.89
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8429702
+TotalBytesAllocated - bytes: 522,256.00 ,bytes: /s 619,542.66 , ns / bytes: 1,614.09
+Elapsed Time - ms: 843.00 ,ms: /s 1,000.04 , ns / ms: 999,964.65
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8255303
+TotalBytesAllocated - bytes: 481,264.00 ,bytes: /s 582,975.57 , ns / bytes: 1,715.34
+Elapsed Time - ms: 825.00 ,ms: /s 999.36 , ns / ms: 1,000,642.79
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7923228
+TotalBytesAllocated - bytes: 468,848.00 ,bytes: /s 591,738.62 , ns / bytes: 1,689.94
+Elapsed Time - ms: 792.00 ,ms: /s 999.59 , ns / ms: 1,000,407.58
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8446886
+TotalBytesAllocated - bytes: 466,592.00 ,bytes: /s 552,383.45 , ns / bytes: 1,810.34
+Elapsed Time - ms: 845.00 ,ms: /s 1,000.37 , ns / ms: 999,631.48
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8724633
+TotalBytesAllocated - bytes: 469,648.00 ,bytes: /s 538,301.15 , ns / bytes: 1,857.70
+Elapsed Time - ms: 873.00 ,ms: /s 1,000.62 , ns / ms: 999,385.22
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7967817
+TotalBytesAllocated - bytes: 469,040.00 ,bytes: /s 588,668.14 , ns / bytes: 1,698.75
+Elapsed Time - ms: 796.00 ,ms: /s 999.02 , ns / ms: 1,000,982.04
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8087346
+TotalBytesAllocated - bytes: 470,488.00 ,bytes: /s 581,758.22 , ns / bytes: 1,718.93
+Elapsed Time - ms: 809.00 ,ms: /s 1,000.33 , ns / ms: 999,671.94
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7800887
+TotalBytesAllocated - bytes: 505,880.00 ,bytes: /s 648,490.36 , ns / bytes: 1,542.04
+Elapsed Time - ms: 780.00 ,ms: /s 999.89 , ns / ms: 1,000,113.72
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8502005
+TotalBytesAllocated - bytes: 472,968.00 ,bytes: /s 556,301.72 , ns / bytes: 1,797.59
+Elapsed Time - ms: 850.00 ,ms: /s 999.76 , ns / ms: 1,000,235.88
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8827770
+TotalBytesAllocated - bytes: 472,968.00 ,bytes: /s 535,772.91 , ns / bytes: 1,866.46
+Elapsed Time - ms: 882.00 ,ms: /s 999.12 , ns / ms: 1,000,880.95
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8304827
+TotalBytesAllocated - bytes: 475,344.00 ,bytes: /s 572,370.74 , ns / bytes: 1,747.12
+Elapsed Time - ms: 831.00 ,ms: /s 1,000.62 , ns / ms: 999,377.50
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7962377
+TotalBytesAllocated - bytes: 472,512.00 ,bytes: /s 593,430.83 , ns / bytes: 1,685.12
+Elapsed Time - ms: 796.00 ,ms: /s 999.70 , ns / ms: 1,000,298.62
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7699428
+TotalBytesAllocated - bytes: 470,256.00 ,bytes: /s 610,767.45 , ns / bytes: 1,637.28
+Elapsed Time - ms: 770.00 ,ms: /s 1,000.07 , ns / ms: 999,925.71
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7390497
+TotalBytesAllocated - bytes: 552,952.00 ,bytes: /s 748,193.25 , ns / bytes: 1,336.55
+Elapsed Time - ms: 739.00 ,ms: /s 999.93 , ns / ms: 1,000,067.25
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8162776
+TotalBytesAllocated - bytes: 488,536.00 ,bytes: /s 598,492.47 , ns / bytes: 1,670.86
+Elapsed Time - ms: 817.00 ,ms: /s 1,000.88 , ns / ms: 999,115.79
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8283255
+TotalBytesAllocated - bytes: 468,640.00 ,bytes: /s 565,767.93 , ns / bytes: 1,767.51
+Elapsed Time - ms: 829.00 ,ms: /s 1,000.81 , ns / ms: 999,186.37
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7721498
+TotalBytesAllocated - bytes: 470,728.00 ,bytes: /s 609,633.00 , ns / bytes: 1,640.33
+Elapsed Time - ms: 772.00 ,ms: /s 999.81 , ns / ms: 1,000,194.04
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7917733
+TotalBytesAllocated - bytes: 481,368.00 ,bytes: /s 607,961.90 , ns / bytes: 1,644.84
+Elapsed Time - ms: 792.00 ,ms: /s 1,000.29 , ns / ms: 999,713.76
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7637546
+TotalBytesAllocated - bytes: 481,120.00 ,bytes: /s 629,940.56 , ns / bytes: 1,587.45
+Elapsed Time - ms: 764.00 ,ms: /s 1,000.32 , ns / ms: 999,678.80
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8184560
+TotalBytesAllocated - bytes: 481,120.00 ,bytes: /s 587,838.56 , ns / bytes: 1,701.15
+Elapsed Time - ms: 818.00 ,ms: /s 999.44 , ns / ms: 1,000,557.46
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8796463
+TotalBytesAllocated - bytes: 476,088.00 ,bytes: /s 541,226.63 , ns / bytes: 1,847.65
+Elapsed Time - ms: 880.00 ,ms: /s 1,000.40 , ns / ms: 999,598.07
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8416286
+TotalBytesAllocated - bytes: 478,920.00 ,bytes: /s 569,039.60 , ns / bytes: 1,757.35
+Elapsed Time - ms: 842.00 ,ms: /s 1,000.44 , ns / ms: 999,558.91
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8191687
+TotalBytesAllocated - bytes: 476,440.00 ,bytes: /s 581,614.02 , ns / bytes: 1,719.35
+Elapsed Time - ms: 820.00 ,ms: /s 1,001.01 , ns / ms: 998,986.22
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8210253
+TotalBytesAllocated - bytes: 479,600.00 ,bytes: /s 584,147.65 , ns / bytes: 1,711.90
+Elapsed Time - ms: 821.00 ,ms: /s 999.97 , ns / ms: 1,000,030.82
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7475021
+TotalBytesAllocated - bytes: 478,304.00 ,bytes: /s 639,869.77 , ns / bytes: 1,562.82
+Elapsed Time - ms: 748.00 ,ms: /s 1,000.67 , ns / ms: 999,334.36
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8507832
+TotalBytesAllocated - bytes: 481,456.00 ,bytes: /s 565,897.40 , ns / bytes: 1,767.10
+Elapsed Time - ms: 850.00 ,ms: /s 999.08 , ns / ms: 1,000,921.41
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8162391
+TotalBytesAllocated - bytes: 481,152.00 ,bytes: /s 589,474.33 , ns / bytes: 1,696.43
+Elapsed Time - ms: 816.00 ,ms: /s 999.71 , ns / ms: 1,000,293.01
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7917028
+TotalBytesAllocated - bytes: 481,120.00 ,bytes: /s 607,702.79 , ns / bytes: 1,645.54
+Elapsed Time - ms: 792.00 ,ms: /s 1,000.38 , ns / ms: 999,624.75
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7653471
+TotalBytesAllocated - bytes: 489,056.00 ,bytes: /s 638,998.96 , ns / bytes: 1,564.95
+Elapsed Time - ms: 766.00 ,ms: /s 1,000.85 , ns / ms: 999,147.65
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7928777
+TotalBytesAllocated - bytes: 480,864.00 ,bytes: /s 606,479.41 , ns / bytes: 1,648.86
+Elapsed Time - ms: 793.00 ,ms: /s 1,000.15 , ns / ms: 999,845.78
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7788410
+TotalBytesAllocated - bytes: 481,120.00 ,bytes: /s 617,738.41 , ns / bytes: 1,618.81
+Elapsed Time - ms: 778.00 ,ms: /s 998.92 , ns / ms: 1,001,080.98
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8123862
+TotalBytesAllocated - bytes: 481,752.00 ,bytes: /s 593,008.60 , ns / bytes: 1,686.32
+Elapsed Time - ms: 812.00 ,ms: /s 999.52 , ns / ms: 1,000,475.62
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8388856
+TotalBytesAllocated - bytes: 590,200.00 ,bytes: /s 703,552.43 , ns / bytes: 1,421.36
+Elapsed Time - ms: 839.00 ,ms: /s 1,000.14 , ns / ms: 999,863.65
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8072557
+TotalBytesAllocated - bytes: 507,736.00 ,bytes: /s 628,965.52 , ns / bytes: 1,589.91
+Elapsed Time - ms: 807.00 ,ms: /s 999.68 , ns / ms: 1,000,316.85
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8025077
+TotalBytesAllocated - bytes: 478,880.00 ,bytes: /s 596,729.48 , ns / bytes: 1,675.80
+Elapsed Time - ms: 803.00 ,ms: /s 1,000.61 , ns / ms: 999,386.92
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8755249
+TotalBytesAllocated - bytes: 476,392.00 ,bytes: /s 544,121.59 , ns / bytes: 1,837.82
+Elapsed Time - ms: 875.00 ,ms: /s 999.40 , ns / ms: 1,000,599.89
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7966464
+TotalBytesAllocated - bytes: 476,864.00 ,bytes: /s 598,589.29 , ns / bytes: 1,670.59
+Elapsed Time - ms: 797.00 ,ms: /s 1,000.44 , ns / ms: 999,556.34
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8094447
+TotalBytesAllocated - bytes: 476,784.00 ,bytes: /s 589,026.03 , ns / bytes: 1,697.72
+Elapsed Time - ms: 809.00 ,ms: /s 999.45 , ns / ms: 1,000,549.69
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8637876
+TotalBytesAllocated - bytes: 481,400.00 ,bytes: /s 557,312.93 , ns / bytes: 1,794.32
+Elapsed Time - ms: 864.00 ,ms: /s 1,000.25 , ns / ms: 999,754.17
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8375334
+TotalBytesAllocated - bytes: 477,560.00 ,bytes: /s 570,198.16 , ns / bytes: 1,753.78
+Elapsed Time - ms: 838.00 ,ms: /s 1,000.56 , ns / ms: 999,443.20
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8488011
+TotalBytesAllocated - bytes: 484,312.00 ,bytes: /s 570,583.61 , ns / bytes: 1,752.59
+Elapsed Time - ms: 849.00 ,ms: /s 1,000.23 , ns / ms: 999,765.72
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8138861
+TotalBytesAllocated - bytes: 478,784.00 ,bytes: /s 588,269.05 , ns / bytes: 1,699.90
+Elapsed Time - ms: 814.00 ,ms: /s 1,000.14 , ns / ms: 999,860.07
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8078496
+TotalBytesAllocated - bytes: 481,128.00 ,bytes: /s 595,566.30 , ns / bytes: 1,679.07
+Elapsed Time - ms: 808.00 ,ms: /s 1,000.19 , ns / ms: 999,813.86
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7857349
+TotalBytesAllocated - bytes: 481,120.00 ,bytes: /s 612,318.48 , ns / bytes: 1,633.14
+Elapsed Time - ms: 786.00 ,ms: /s 1,000.34 , ns / ms: 999,662.72
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8486269
+TotalBytesAllocated - bytes: 481,320.00 ,bytes: /s 567,175.04 , ns / bytes: 1,763.12
+Elapsed Time - ms: 849.00 ,ms: /s 1,000.44 , ns / ms: 999,560.54
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8104720
+TotalBytesAllocated - bytes: 481,120.00 ,bytes: /s 593,629.39 , ns / bytes: 1,684.55
+Elapsed Time - ms: 811.00 ,ms: /s 1,000.65 , ns / ms: 999,348.95
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7507846
+TotalBytesAllocated - bytes: 481,120.00 ,bytes: /s 640,822.95 , ns / bytes: 1,560.49
+Elapsed Time - ms: 751.00 ,ms: /s 1,000.29 , ns / ms: 999,713.18
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7743670
+TotalBytesAllocated - bytes: 480,912.00 ,bytes: /s 621,038.86 , ns / bytes: 1,610.21
+Elapsed Time - ms: 775.00 ,ms: /s 1,000.82 , ns / ms: 999,183.23
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7955792
+TotalBytesAllocated - bytes: 481,112.00 ,bytes: /s 604,731.75 , ns / bytes: 1,653.63
+Elapsed Time - ms: 795.00 ,ms: /s 999.27 , ns / ms: 1,000,728.55
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8276913
+TotalBytesAllocated - bytes: 481,120.00 ,bytes: /s 581,279.52 , ns / bytes: 1,720.34
+Elapsed Time - ms: 827.00 ,ms: /s 999.16 , ns / ms: 1,000,835.91
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7518861
+TotalBytesAllocated - bytes: 481,120.00 ,bytes: /s 639,884.15 , ns / bytes: 1,562.78
+Elapsed Time - ms: 751.00 ,ms: /s 998.82 , ns / ms: 1,001,179.89
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8157139
+TotalBytesAllocated - bytes: 479,288.00 ,bytes: /s 587,568.75 , ns / bytes: 1,701.93
+Elapsed Time - ms: 816.00 ,ms: /s 1,000.35 , ns / ms: 999,649.39
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7765171
+TotalBytesAllocated - bytes: 478,384.00 ,bytes: /s 616,063.70 , ns / bytes: 1,623.21
+Elapsed Time - ms: 777.00 ,ms: /s 1,000.62 , ns / ms: 999,378.51
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8351268
+TotalBytesAllocated - bytes: 481,552.00 ,bytes: /s 576,621.42 , ns / bytes: 1,734.24
+Elapsed Time - ms: 836.00 ,ms: /s 1,001.05 , ns / ms: 998,955.50
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7693098
+TotalBytesAllocated - bytes: 487,440.00 ,bytes: /s 633,606.90 , ns / bytes: 1,578.27
+Elapsed Time - ms: 770.00 ,ms: /s 1,000.90 , ns / ms: 999,103.64
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7967016
+TotalBytesAllocated - bytes: 489,616.00 ,bytes: /s 614,553.81 , ns / bytes: 1,627.20
+Elapsed Time - ms: 797.00 ,ms: /s 1,000.37 , ns / ms: 999,625.60
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8063882
+TotalBytesAllocated - bytes: 480,664.00 ,bytes: /s 596,070.23 , ns / bytes: 1,677.65
+Elapsed Time - ms: 807.00 ,ms: /s 1,000.76 , ns / ms: 999,241.88
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7783865
+TotalBytesAllocated - bytes: 481,384.00 ,bytes: /s 618,438.27 , ns / bytes: 1,616.98
+Elapsed Time - ms: 778.00 ,ms: /s 999.50 , ns / ms: 1,000,496.79
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7718226
+TotalBytesAllocated - bytes: 477,424.00 ,bytes: /s 618,567.01 , ns / bytes: 1,616.64
+Elapsed Time - ms: 772.00 ,ms: /s 1,000.23 , ns / ms: 999,770.21
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7745528
+TotalBytesAllocated - bytes: 483,400.00 ,bytes: /s 624,102.06 , ns / bytes: 1,602.30
+Elapsed Time - ms: 775.00 ,ms: /s 1,000.58 , ns / ms: 999,422.97
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8182470
+TotalBytesAllocated - bytes: 478,864.00 ,bytes: /s 585,231.60 , ns / bytes: 1,708.73
+Elapsed Time - ms: 818.00 ,ms: /s 999.70 , ns / ms: 1,000,301.96
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7864293
+TotalBytesAllocated - bytes: 664,800.00 ,bytes: /s 845,339.82 , ns / bytes: 1,182.96
+Elapsed Time - ms: 786.00 ,ms: /s 999.45 , ns / ms: 1,000,546.18
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8059073
+TotalBytesAllocated - bytes: 530,096.00 ,bytes: /s 657,763.00 , ns / bytes: 1,520.30
+Elapsed Time - ms: 806.00 ,ms: /s 1,000.12 , ns / ms: 999,884.99
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7949863
+TotalBytesAllocated - bytes: 480,808.00 ,bytes: /s 604,800.36 , ns / bytes: 1,653.44
+Elapsed Time - ms: 795.00 ,ms: /s 1,000.02 , ns / ms: 999,982.77
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7694424
+TotalBytesAllocated - bytes: 481,136.00 ,bytes: /s 625,304.77 , ns / bytes: 1,599.22
+Elapsed Time - ms: 769.00 ,ms: /s 999.43 , ns / ms: 1,000,575.29
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8682335
+TotalBytesAllocated - bytes: 479,112.00 ,bytes: /s 551,823.90 , ns / bytes: 1,812.17
+Elapsed Time - ms: 868.00 ,ms: /s 999.73 , ns / ms: 1,000,269.01
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8083257
+TotalBytesAllocated - bytes: 479,472.00 ,bytes: /s 593,166.84 , ns / bytes: 1,685.87
+Elapsed Time - ms: 808.00 ,ms: /s 999.60 , ns / ms: 1,000,403.09
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7578546
+TotalBytesAllocated - bytes: 478,664.00 ,bytes: /s 631,604.00 , ns / bytes: 1,583.27
+Elapsed Time - ms: 758.00 ,ms: /s 1,000.19 , ns / ms: 999,808.18
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7868386
+TotalBytesAllocated - bytes: 481,440.00 ,bytes: /s 611,866.27 , ns / bytes: 1,634.34
+Elapsed Time - ms: 786.00 ,ms: /s 998.93 , ns / ms: 1,001,066.92
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8625297
+TotalBytesAllocated - bytes: 480,544.00 ,bytes: /s 557,133.28 , ns / bytes: 1,794.90
+Elapsed Time - ms: 862.00 ,ms: /s 999.39 , ns / ms: 1,000,614.50
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8132264
+TotalBytesAllocated - bytes: 480,544.00 ,bytes: /s 590,910.48 , ns / bytes: 1,692.30
+Elapsed Time - ms: 814.00 ,ms: /s 1,000.95 , ns / ms: 999,049.63
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7803184
+TotalBytesAllocated - bytes: 480,768.00 ,bytes: /s 616,117.73 , ns / bytes: 1,623.07
+Elapsed Time - ms: 780.00 ,ms: /s 999.59 , ns / ms: 1,000,408.21
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8046066
+TotalBytesAllocated - bytes: 477,120.00 ,bytes: /s 592,985.44 , ns / bytes: 1,686.38
+Elapsed Time - ms: 804.00 ,ms: /s 999.25 , ns / ms: 1,000,754.48
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8116431
+TotalBytesAllocated - bytes: 481,096.00 ,bytes: /s 592,743.29 , ns / bytes: 1,687.07
+Elapsed Time - ms: 811.00 ,ms: /s 999.21 , ns / ms: 1,000,792.97
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7718646
+TotalBytesAllocated - bytes: 485,616.00 ,bytes: /s 629,146.61 , ns / bytes: 1,589.45
+Elapsed Time - ms: 772.00 ,ms: /s 1,000.18 , ns / ms: 999,824.61
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7961216
+TotalBytesAllocated - bytes: 481,432.00 ,bytes: /s 604,721.69 , ns / bytes: 1,653.65
+Elapsed Time - ms: 797.00 ,ms: /s 1,001.10 , ns / ms: 998,897.87
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7594785
+TotalBytesAllocated - bytes: 474,680.00 ,bytes: /s 625,007.82 , ns / bytes: 1,599.98
+Elapsed Time - ms: 760.00 ,ms: /s 1,000.69 , ns / ms: 999,313.82
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7806235
+TotalBytesAllocated - bytes: 481,264.00 ,bytes: /s 616,512.31 , ns / bytes: 1,622.03
+Elapsed Time - ms: 780.00 ,ms: /s 999.20 , ns / ms: 1,000,799.36
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7725160
+TotalBytesAllocated - bytes: 478,304.00 ,bytes: /s 619,150.93 , ns / bytes: 1,615.12
+Elapsed Time - ms: 772.00 ,ms: /s 999.33 , ns / ms: 1,000,668.39
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8143521
+TotalBytesAllocated - bytes: 475,952.00 ,bytes: /s 584,454.81 , ns / bytes: 1,711.00
+Elapsed Time - ms: 814.00 ,ms: /s 999.57 , ns / ms: 1,000,432.56
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8532306
+TotalBytesAllocated - bytes: 489,312.00 ,bytes: /s 573,481.54 , ns / bytes: 1,743.74
+Elapsed Time - ms: 853.00 ,ms: /s 999.73 , ns / ms: 1,000,270.34
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7846022
+TotalBytesAllocated - bytes: 481,152.00 ,bytes: /s 613,243.25 , ns / bytes: 1,630.67
+Elapsed Time - ms: 784.00 ,ms: /s 999.23 , ns / ms: 1,000,768.11
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8001281
+TotalBytesAllocated - bytes: 481,432.00 ,bytes: /s 601,693.65 , ns / bytes: 1,661.98
+Elapsed Time - ms: 800.00 ,ms: /s 999.84 , ns / ms: 1,000,160.13
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7778921
+TotalBytesAllocated - bytes: 489,336.00 ,bytes: /s 629,053.82 , ns / bytes: 1,589.69
+Elapsed Time - ms: 778.00 ,ms: /s 1,000.14 , ns / ms: 999,861.31
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7939873
+TotalBytesAllocated - bytes: 481,424.00 ,bytes: /s 606,337.15 , ns / bytes: 1,649.25
+Elapsed Time - ms: 794.00 ,ms: /s 1,000.02 , ns / ms: 999,984.01
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8133675
+TotalBytesAllocated - bytes: 489,080.00 ,bytes: /s 601,302.61 , ns / bytes: 1,663.06
+Elapsed Time - ms: 814.00 ,ms: /s 1,000.78 , ns / ms: 999,222.97
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7375749
+TotalBytesAllocated - bytes: 481,032.00 ,bytes: /s 652,180.54 , ns / bytes: 1,533.32
+Elapsed Time - ms: 738.00 ,ms: /s 1,000.58 , ns / ms: 999,423.98
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8921138
+TotalBytesAllocated - bytes: 522,120.00 ,bytes: /s 585,261.66 , ns / bytes: 1,708.64
+Elapsed Time - ms: 892.00 ,ms: /s 999.87 , ns / ms: 1,000,127.58
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7801867
+TotalBytesAllocated - bytes: 481,280.00 ,bytes: /s 616,877.99 , ns / bytes: 1,621.07
+Elapsed Time - ms: 780.00 ,ms: /s 999.76 , ns / ms: 1,000,239.36
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7698226
+TotalBytesAllocated - bytes: 481,400.00 ,bytes: /s 625,338.88 , ns / bytes: 1,599.13
+Elapsed Time - ms: 770.00 ,ms: /s 1,000.23 , ns / ms: 999,769.61
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8294096
+TotalBytesAllocated - bytes: 473,128.00 ,bytes: /s 570,439.50 , ns / bytes: 1,753.03
+Elapsed Time - ms: 829.00 ,ms: /s 999.51 , ns / ms: 1,000,494.09
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7756469
+TotalBytesAllocated - bytes: 493,408.00 ,bytes: /s 636,124.50 , ns / bytes: 1,572.02
+Elapsed Time - ms: 776.00 ,ms: /s 1,000.46 , ns / ms: 999,544.97
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7568227
+TotalBytesAllocated - bytes: 480,784.00 ,bytes: /s 635,266.36 , ns / bytes: 1,574.14
+Elapsed Time - ms: 757.00 ,ms: /s 1,000.23 , ns / ms: 999,765.79
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7501477
+TotalBytesAllocated - bytes: 479,288.00 ,bytes: /s 638,924.84 , ns / bytes: 1,565.13
+Elapsed Time - ms: 750.00 ,ms: /s 999.80 , ns / ms: 1,000,196.93
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7904978
+TotalBytesAllocated - bytes: 486,664.00 ,bytes: /s 615,642.45 , ns / bytes: 1,624.32
+Elapsed Time - ms: 790.00 ,ms: /s 999.37 , ns / ms: 1,000,630.13
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7293460
+TotalBytesAllocated - bytes: 480,072.00 ,bytes: /s 658,222.57 , ns / bytes: 1,519.24
+Elapsed Time - ms: 729.00 ,ms: /s 999.53 , ns / ms: 1,000,474.62
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7516269
+TotalBytesAllocated - bytes: 485,000.00 ,bytes: /s 645,266.95 , ns / bytes: 1,549.75
+Elapsed Time - ms: 751.00 ,ms: /s 999.17 , ns / ms: 1,000,834.75
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7658991
+TotalBytesAllocated - bytes: 667,328.00 ,bytes: /s 871,300.15 , ns / bytes: 1,147.71
+Elapsed Time - ms: 765.00 ,ms: /s 998.83 , ns / ms: 1,001,175.29
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7830326
+TotalBytesAllocated - bytes: 529,720.00 ,bytes: /s 676,498.02 , ns / bytes: 1,478.20
+Elapsed Time - ms: 783.00 ,ms: /s 999.96 , ns / ms: 1,000,041.63
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8023461
+TotalBytesAllocated - bytes: 487,208.00 ,bytes: /s 607,229.22 , ns / bytes: 1,646.82
+Elapsed Time - ms: 802.00 ,ms: /s 999.57 , ns / ms: 1,000,431.55
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7910220
+TotalBytesAllocated - bytes: 476,824.00 ,bytes: /s 602,794.87 , ns / bytes: 1,658.94
+Elapsed Time - ms: 791.00 ,ms: /s 999.97 , ns / ms: 1,000,027.81
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7833649
+TotalBytesAllocated - bytes: 486,904.00 ,bytes: /s 621,554.53 , ns / bytes: 1,608.87
+Elapsed Time - ms: 784.00 ,ms: /s 1,000.81 , ns / ms: 999,189.92
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8044791
+TotalBytesAllocated - bytes: 481,272.00 ,bytes: /s 598,240.53 , ns / bytes: 1,671.57
+Elapsed Time - ms: 805.00 ,ms: /s 1,000.65 , ns / ms: 999,352.92
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8438908
+TotalBytesAllocated - bytes: 489,024.00 ,bytes: /s 579,487.30 , ns / bytes: 1,725.66
+Elapsed Time - ms: 844.00 ,ms: /s 1,000.13 , ns / ms: 999,870.62
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7764434
+TotalBytesAllocated - bytes: 481,416.00 ,bytes: /s 620,027.16 , ns / bytes: 1,612.83
+Elapsed Time - ms: 777.00 ,ms: /s 1,000.72 , ns / ms: 999,283.66
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8084312
+TotalBytesAllocated - bytes: 495,152.00 ,bytes: /s 612,485.02 , ns / bytes: 1,632.69
+Elapsed Time - ms: 809.00 ,ms: /s 1,000.70 , ns / ms: 999,296.91
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8157253
+TotalBytesAllocated - bytes: 489,000.00 ,bytes: /s 599,466.51 , ns / bytes: 1,668.15
+Elapsed Time - ms: 815.00 ,ms: /s 999.11 , ns / ms: 1,000,889.94
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8137309
+TotalBytesAllocated - bytes: 480,784.00 ,bytes: /s 590,839.06 , ns / bytes: 1,692.51
+Elapsed Time - ms: 814.00 ,ms: /s 1,000.33 , ns / ms: 999,669.41
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8001529
+TotalBytesAllocated - bytes: 489,184.00 ,bytes: /s 611,363.15 , ns / bytes: 1,635.69
+Elapsed Time - ms: 801.00 ,ms: /s 1,001.06 , ns / ms: 998,942.45
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8223067
+TotalBytesAllocated - bytes: 497,720.00 ,bytes: /s 605,272.95 , ns / bytes: 1,652.15
+Elapsed Time - ms: 822.00 ,ms: /s 999.63 , ns / ms: 1,000,373.11
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8055906
+TotalBytesAllocated - bytes: 481,112.00 ,bytes: /s 597,216.50 , ns / bytes: 1,674.43
+Elapsed Time - ms: 806.00 ,ms: /s 1,000.51 , ns / ms: 999,492.06
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7615182
+TotalBytesAllocated - bytes: 497,280.00 ,bytes: /s 653,011.31 , ns / bytes: 1,531.37
+Elapsed Time - ms: 762.00 ,ms: /s 1,000.63 , ns / ms: 999,367.72
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8373611
+TotalBytesAllocated - bytes: 480,800.00 ,bytes: /s 574,184.78 , ns / bytes: 1,741.60
+Elapsed Time - ms: 837.00 ,ms: /s 999.57 , ns / ms: 1,000,431.42
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8189423
+TotalBytesAllocated - bytes: 489,520.00 ,bytes: /s 597,746.63 , ns / bytes: 1,672.95
+Elapsed Time - ms: 819.00 ,ms: /s 1,000.07 , ns / ms: 999,929.55
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7567097
+TotalBytesAllocated - bytes: 489,512.00 ,bytes: /s 646,895.37 , ns / bytes: 1,545.85
+Elapsed Time - ms: 757.00 ,ms: /s 1,000.38 , ns / ms: 999,616.51
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7445237
+TotalBytesAllocated - bytes: 481,104.00 ,bytes: /s 646,190.31 , ns / bytes: 1,547.53
+Elapsed Time - ms: 744.00 ,ms: /s 999.30 , ns / ms: 1,000,703.90
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7527830
+TotalBytesAllocated - bytes: 505,528.00 ,bytes: /s 671,545.45 , ns / bytes: 1,489.10
+Elapsed Time - ms: 753.00 ,ms: /s 1,000.29 , ns / ms: 999,711.82
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7646998
+TotalBytesAllocated - bytes: 489,256.00 ,bytes: /s 639,801.40 , ns / bytes: 1,562.99
+Elapsed Time - ms: 764.00 ,ms: /s 999.08 , ns / ms: 1,000,915.97
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7942367
+TotalBytesAllocated - bytes: 487,232.00 ,bytes: /s 613,459.44 , ns / bytes: 1,630.10
+Elapsed Time - ms: 794.00 ,ms: /s 999.70 , ns / ms: 1,000,298.11
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8292606
+TotalBytesAllocated - bytes: 492,952.00 ,bytes: /s 594,447.63 , ns / bytes: 1,682.23
+Elapsed Time - ms: 830.00 ,ms: /s 1,000.89 , ns / ms: 999,109.16
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9054484
+TotalBytesAllocated - bytes: 478,552.00 ,bytes: /s 528,524.87 , ns / bytes: 1,892.06
+Elapsed Time - ms: 905.00 ,ms: /s 999.50 , ns / ms: 1,000,495.47
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8032774
+TotalBytesAllocated - bytes: 479,480.00 ,bytes: /s 596,904.63 , ns / bytes: 1,675.31
+Elapsed Time - ms: 803.00 ,ms: /s 999.65 , ns / ms: 1,000,345.45
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7923005
+TotalBytesAllocated - bytes: 486,448.00 ,bytes: /s 613,969.07 , ns / bytes: 1,628.75
+Elapsed Time - ms: 792.00 ,ms: /s 999.62 , ns / ms: 1,000,379.42
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8152170
+TotalBytesAllocated - bytes: 481,272.00 ,bytes: /s 590,360.60 , ns / bytes: 1,693.88
+Elapsed Time - ms: 815.00 ,ms: /s 999.73 , ns / ms: 1,000,266.26
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7577740
+TotalBytesAllocated - bytes: 497,112.00 ,bytes: /s 656,016.17 , ns / bytes: 1,524.35
+Elapsed Time - ms: 758.00 ,ms: /s 1,000.30 , ns / ms: 999,701.85
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7606355
+TotalBytesAllocated - bytes: 478,928.00 ,bytes: /s 629,641.92 , ns / bytes: 1,588.20
+Elapsed Time - ms: 761.00 ,ms: /s 1,000.48 , ns / ms: 999,521.02
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8153508
+TotalBytesAllocated - bytes: 504,680.00 ,bytes: /s 618,972.84 , ns / bytes: 1,615.58
+Elapsed Time - ms: 815.00 ,ms: /s 999.57 , ns / ms: 1,000,430.43
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7775909
+TotalBytesAllocated - bytes: 488,720.00 ,bytes: /s 628,505.30 , ns / bytes: 1,591.08
+Elapsed Time - ms: 778.00 ,ms: /s 1,000.53 , ns / ms: 999,474.16
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7911096
+TotalBytesAllocated - bytes: 494,560.00 ,bytes: /s 625,147.26 , ns / bytes: 1,599.62
+Elapsed Time - ms: 792.00 ,ms: /s 1,001.13 , ns / ms: 998,875.76
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7693304
+TotalBytesAllocated - bytes: 487,776.00 ,bytes: /s 634,026.68 , ns / bytes: 1,577.22
+Elapsed Time - ms: 769.00 ,ms: /s 999.57 , ns / ms: 1,000,429.65
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8296166
+TotalBytesAllocated - bytes: 493,792.00 ,bytes: /s 595,205.06 , ns / bytes: 1,680.09
+Elapsed Time - ms: 829.00 ,ms: /s 999.26 , ns / ms: 1,000,743.79
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7438615
+TotalBytesAllocated - bytes: 486,992.00 ,bytes: /s 654,681.01 , ns / bytes: 1,527.46
+Elapsed Time - ms: 744.00 ,ms: /s 1,000.19 , ns / ms: 999,813.84
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7917208
+TotalBytesAllocated - bytes: 702,192.00 ,bytes: /s 886,918.72 , ns / bytes: 1,127.50
+Elapsed Time - ms: 792.00 ,ms: /s 1,000.35 , ns / ms: 999,647.47
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7688123
+TotalBytesAllocated - bytes: 537,728.00 ,bytes: /s 699,426.90 , ns / bytes: 1,429.74
+Elapsed Time - ms: 769.00 ,ms: /s 1,000.24 , ns / ms: 999,755.92
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7488312
+TotalBytesAllocated - bytes: 481,136.00 ,bytes: /s 642,515.96 , ns / bytes: 1,556.38
+Elapsed Time - ms: 749.00 ,ms: /s 1,000.23 , ns / ms: 999,774.63
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7640935
+TotalBytesAllocated - bytes: 497,408.00 ,bytes: /s 650,977.92 , ns / bytes: 1,536.15
+Elapsed Time - ms: 764.00 ,ms: /s 999.88 , ns / ms: 1,000,122.38
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7565429
+TotalBytesAllocated - bytes: 489,472.00 ,bytes: /s 646,985.12 , ns / bytes: 1,545.63
+Elapsed Time - ms: 757.00 ,ms: /s 1,000.60 , ns / ms: 999,396.17
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8316081
+TotalBytesAllocated - bytes: 481,184.00 ,bytes: /s 578,618.70 , ns / bytes: 1,728.25
+Elapsed Time - ms: 831.00 ,ms: /s 999.27 , ns / ms: 1,000,731.77
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7593264
+TotalBytesAllocated - bytes: 489,200.00 ,bytes: /s 644,255.22 , ns / bytes: 1,552.18
+Elapsed Time - ms: 760.00 ,ms: /s 1,000.89 , ns / ms: 999,113.68
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7770630
+TotalBytesAllocated - bytes: 489,224.00 ,bytes: /s 629,580.87 , ns / bytes: 1,588.36
+Elapsed Time - ms: 777.00 ,ms: /s 999.92 , ns / ms: 1,000,081.08
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7688390
+TotalBytesAllocated - bytes: 481,096.00 ,bytes: /s 625,743.49 , ns / bytes: 1,598.10
+Elapsed Time - ms: 769.00 ,ms: /s 1,000.21 , ns / ms: 999,790.64
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8136458
+TotalBytesAllocated - bytes: 489,160.00 ,bytes: /s 601,195.26 , ns / bytes: 1,663.35
+Elapsed Time - ms: 814.00 ,ms: /s 1,000.44 , ns / ms: 999,564.86
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7401329
+TotalBytesAllocated - bytes: 489,160.00 ,bytes: /s 660,908.33 , ns / bytes: 1,513.07
+Elapsed Time - ms: 740.00 ,ms: /s 999.82 , ns / ms: 1,000,179.59
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8124196
+TotalBytesAllocated - bytes: 489,536.00 ,bytes: /s 602,565.47 , ns / bytes: 1,659.57
+Elapsed Time - ms: 812.00 ,ms: /s 999.48 , ns / ms: 1,000,516.75
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7964178
+TotalBytesAllocated - bytes: 488,928.00 ,bytes: /s 613,908.93 , ns / bytes: 1,628.91
+Elapsed Time - ms: 797.00 ,ms: /s 1,000.73 , ns / ms: 999,269.51
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8173096
+TotalBytesAllocated - bytes: 489,056.00 ,bytes: /s 598,373.00 , ns / bytes: 1,671.20
+Elapsed Time - ms: 818.00 ,ms: /s 1,000.84 , ns / ms: 999,155.99
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8146877
+TotalBytesAllocated - bytes: 489,104.00 ,bytes: /s 600,357.66 , ns / bytes: 1,665.67
+Elapsed Time - ms: 815.00 ,ms: /s 1,000.38 , ns / ms: 999,616.81
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7957952
+TotalBytesAllocated - bytes: 489,304.00 ,bytes: /s 614,861.71 , ns / bytes: 1,626.38
+Elapsed Time - ms: 796.00 ,ms: /s 1,000.26 , ns / ms: 999,742.71
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7051666
+TotalBytesAllocated - bytes: 489,096.00 ,bytes: /s 693,589.29 , ns / bytes: 1,441.78
+Elapsed Time - ms: 705.00 ,ms: /s 999.76 , ns / ms: 1,000,236.31
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7486094
+TotalBytesAllocated - bytes: 480,832.00 ,bytes: /s 642,300.24 , ns / bytes: 1,556.90
+Elapsed Time - ms: 749.00 ,ms: /s 1,000.52 , ns / ms: 999,478.50
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8157405
+TotalBytesAllocated - bytes: 489,184.00 ,bytes: /s 599,680.90 , ns / bytes: 1,667.55
+Elapsed Time - ms: 816.00 ,ms: /s 1,000.32 , ns / ms: 999,681.99
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7797845
+TotalBytesAllocated - bytes: 489,160.00 ,bytes: /s 627,301.52 , ns / bytes: 1,594.13
+Elapsed Time - ms: 780.00 ,ms: /s 1,000.28 , ns / ms: 999,723.72
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7381163
+TotalBytesAllocated - bytes: 481,200.00 ,bytes: /s 651,929.78 , ns / bytes: 1,533.91
+Elapsed Time - ms: 738.00 ,ms: /s 999.84 , ns / ms: 1,000,157.59
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7264556
+TotalBytesAllocated - bytes: 484,768.00 ,bytes: /s 667,305.75 , ns / bytes: 1,498.56
+Elapsed Time - ms: 727.00 ,ms: /s 1,000.75 , ns / ms: 999,251.17
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7574369
+TotalBytesAllocated - bytes: 498,696.00 ,bytes: /s 658,399.40 , ns / bytes: 1,518.83
+Elapsed Time - ms: 757.00 ,ms: /s 999.42 , ns / ms: 1,000,577.15
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7328794
+TotalBytesAllocated - bytes: 486,696.00 ,bytes: /s 664,087.43 , ns / bytes: 1,505.83
+Elapsed Time - ms: 733.00 ,ms: /s 1,000.16 , ns / ms: 999,835.47
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7675963
+TotalBytesAllocated - bytes: 478,152.00 ,bytes: /s 622,921.19 , ns / bytes: 1,605.34
+Elapsed Time - ms: 767.00 ,ms: /s 999.22 , ns / ms: 1,000,777.44
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7732173
+TotalBytesAllocated - bytes: 494,928.00 ,bytes: /s 640,089.14 , ns / bytes: 1,562.28
+Elapsed Time - ms: 773.00 ,ms: /s 999.72 , ns / ms: 1,000,281.11
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7404073
+TotalBytesAllocated - bytes: 488,296.00 ,bytes: /s 659,496.47 , ns / bytes: 1,516.31
+Elapsed Time - ms: 740.00 ,ms: /s 999.45 , ns / ms: 1,000,550.41
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8120460
+TotalBytesAllocated - bytes: 494,928.00 ,bytes: /s 609,482.71 , ns / bytes: 1,640.74
+Elapsed Time - ms: 812.00 ,ms: /s 999.94 , ns / ms: 1,000,056.65
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7222284
+TotalBytesAllocated - bytes: 488,832.00 ,bytes: /s 676,838.52 , ns / bytes: 1,477.46
+Elapsed Time - ms: 722.00 ,ms: /s 999.68 , ns / ms: 1,000,316.34
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7465196
+TotalBytesAllocated - bytes: 486,768.00 ,bytes: /s 652,049.86 , ns / bytes: 1,533.63
+Elapsed Time - ms: 747.00 ,ms: /s 1,000.64 , ns / ms: 999,356.89
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7741467
+TotalBytesAllocated - bytes: 487,096.00 ,bytes: /s 629,203.74 , ns / bytes: 1,589.31
+Elapsed Time - ms: 774.00 ,ms: /s 999.81 , ns / ms: 1,000,189.53
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7543476
+TotalBytesAllocated - bytes: 503,240.00 ,bytes: /s 667,119.51 , ns / bytes: 1,498.98
+Elapsed Time - ms: 754.00 ,ms: /s 999.54 , ns / ms: 1,000,461.01
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7322347
+TotalBytesAllocated - bytes: 496,608.00 ,bytes: /s 678,208.78 , ns / bytes: 1,474.47
+Elapsed Time - ms: 732.00 ,ms: /s 999.68 , ns / ms: 1,000,320.63
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7364774
+TotalBytesAllocated - bytes: 487,696.00 ,bytes: /s 662,200.90 , ns / bytes: 1,510.12
+Elapsed Time - ms: 737.00 ,ms: /s 1,000.71 , ns / ms: 999,290.91
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7595493
+TotalBytesAllocated - bytes: 497,072.00 ,bytes: /s 654,430.20 , ns / bytes: 1,528.05
+Elapsed Time - ms: 760.00 ,ms: /s 1,000.59 , ns / ms: 999,406.97
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7560336
+TotalBytesAllocated - bytes: 489,304.00 ,bytes: /s 647,198.75 , ns / bytes: 1,545.12
+Elapsed Time - ms: 756.00 ,ms: /s 999.96 , ns / ms: 1,000,044.44
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7403230
+TotalBytesAllocated - bytes: 489,120.00 ,bytes: /s 660,684.59 , ns / bytes: 1,513.58
+Elapsed Time - ms: 740.00 ,ms: /s 999.56 , ns / ms: 1,000,436.49
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7312366
+TotalBytesAllocated - bytes: 489,000.00 ,bytes: /s 668,730.20 , ns / bytes: 1,495.37
+Elapsed Time - ms: 731.00 ,ms: /s 999.68 , ns / ms: 1,000,323.67
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7472565
+TotalBytesAllocated - bytes: 497,032.00 ,bytes: /s 665,142.42 , ns / bytes: 1,503.44
+Elapsed Time - ms: 747.00 ,ms: /s 999.66 , ns / ms: 1,000,343.37
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8282086
+TotalBytesAllocated - bytes: 489,600.00 ,bytes: /s 591,155.42 , ns / bytes: 1,691.60
+Elapsed Time - ms: 828.00 ,ms: /s 999.75 , ns / ms: 1,000,251.93
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7507588
+TotalBytesAllocated - bytes: 489,744.00 ,bytes: /s 652,332.01 , ns / bytes: 1,532.96
+Elapsed Time - ms: 750.00 ,ms: /s 998.99 , ns / ms: 1,001,011.73
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7678825
+TotalBytesAllocated - bytes: 489,424.00 ,bytes: /s 637,368.35 , ns / bytes: 1,568.95
+Elapsed Time - ms: 768.00 ,ms: /s 1,000.15 , ns / ms: 999,847.01
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7275310
+TotalBytesAllocated - bytes: 481,192.00 ,bytes: /s 661,404.12 , ns / bytes: 1,511.93
+Elapsed Time - ms: 728.00 ,ms: /s 1,000.64 , ns / ms: 999,355.77
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7896396
+TotalBytesAllocated - bytes: 488,760.00 ,bytes: /s 618,965.92 , ns / bytes: 1,615.60
+Elapsed Time - ms: 789.00 ,ms: /s 999.19 , ns / ms: 1,000,810.65
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7264707
+TotalBytesAllocated - bytes: 488,784.00 ,bytes: /s 672,819.98 , ns / bytes: 1,486.28
+Elapsed Time - ms: 726.00 ,ms: /s 999.35 , ns / ms: 1,000,648.35
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7004152
+TotalBytesAllocated - bytes: 497,560.00 ,bytes: /s 710,378.64 , ns / bytes: 1,407.70
+Elapsed Time - ms: 700.00 ,ms: /s 999.41 , ns / ms: 1,000,593.14
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7239203
+TotalBytesAllocated - bytes: 488,992.00 ,bytes: /s 675,477.67 , ns / bytes: 1,480.43
+Elapsed Time - ms: 724.00 ,ms: /s 1,000.11 , ns / ms: 999,889.92
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7515555
+TotalBytesAllocated - bytes: 489,536.00 ,bytes: /s 651,363.74 , ns / bytes: 1,535.24
+Elapsed Time - ms: 752.00 ,ms: /s 1,000.59 , ns / ms: 999,408.91
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8022514
+TotalBytesAllocated - bytes: 497,408.00 ,bytes: /s 620,015.12 , ns / bytes: 1,612.86
+Elapsed Time - ms: 802.00 ,ms: /s 999.69 , ns / ms: 1,000,313.47
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7859844
+TotalBytesAllocated - bytes: 497,496.00 ,bytes: /s 632,959.13 , ns / bytes: 1,579.88
+Elapsed Time - ms: 786.00 ,ms: /s 1,000.02 , ns / ms: 999,980.15
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7704108
+TotalBytesAllocated - bytes: 505,600.00 ,bytes: /s 656,273.25 , ns / bytes: 1,523.76
+Elapsed Time - ms: 771.00 ,ms: /s 1,000.76 , ns / ms: 999,235.80
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8131193
+TotalBytesAllocated - bytes: 489,296.00 ,bytes: /s 601,751.80 , ns / bytes: 1,661.81
+Elapsed Time - ms: 813.00 ,ms: /s 999.85 , ns / ms: 1,000,146.74
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7971362
+TotalBytesAllocated - bytes: 497,496.00 ,bytes: /s 624,104.14 , ns / bytes: 1,602.30
+Elapsed Time - ms: 797.00 ,ms: /s 999.83 , ns / ms: 1,000,170.89
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7151602
+TotalBytesAllocated - bytes: 497,400.00 ,bytes: /s 695,508.50 , ns / bytes: 1,437.80
+Elapsed Time - ms: 715.00 ,ms: /s 999.78 , ns / ms: 1,000,224.06
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7904436
+TotalBytesAllocated - bytes: 489,328.00 ,bytes: /s 619,054.92 , ns / bytes: 1,615.37
+Elapsed Time - ms: 791.00 ,ms: /s 1,000.70 , ns / ms: 999,296.59
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7639516
+TotalBytesAllocated - bytes: 489,304.00 ,bytes: /s 640,490.84 , ns / bytes: 1,561.30
+Elapsed Time - ms: 764.00 ,ms: /s 1,000.06 , ns / ms: 999,936.65
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7928382
+TotalBytesAllocated - bytes: 497,304.00 ,bytes: /s 627,245.26 , ns / bytes: 1,594.27
+Elapsed Time - ms: 793.00 ,ms: /s 1,000.20 , ns / ms: 999,795.96
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8041277
+TotalBytesAllocated - bytes: 497,504.00 ,bytes: /s 618,687.80 , ns / bytes: 1,616.32
+Elapsed Time - ms: 804.00 ,ms: /s 999.84 , ns / ms: 1,000,158.83
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8160919
+TotalBytesAllocated - bytes: 505,688.00 ,bytes: /s 619,645.90 , ns / bytes: 1,613.82
+Elapsed Time - ms: 816.00 ,ms: /s 999.89 , ns / ms: 1,000,112.62
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7657842
+TotalBytesAllocated - bytes: 497,352.00 ,bytes: /s 649,467.57 , ns / bytes: 1,539.72
+Elapsed Time - ms: 766.00 ,ms: /s 1,000.28 , ns / ms: 999,718.28
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7412454
+TotalBytesAllocated - bytes: 481,184.00 ,bytes: /s 649,156.14 , ns / bytes: 1,540.46
+Elapsed Time - ms: 741.00 ,ms: /s 999.67 , ns / ms: 1,000,331.17
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7552293
+TotalBytesAllocated - bytes: 497,584.00 ,bytes: /s 658,851.56 , ns / bytes: 1,517.79
+Elapsed Time - ms: 756.00 ,ms: /s 1,001.02 , ns / ms: 998,980.56
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7983098
+TotalBytesAllocated - bytes: 530,568.00 ,bytes: /s 664,614.16 , ns / bytes: 1,504.63
+Elapsed Time - ms: 799.00 ,ms: /s 1,000.86 , ns / ms: 999,136.17
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7639992
+TotalBytesAllocated - bytes: 489,320.00 ,bytes: /s 640,471.87 , ns / bytes: 1,561.35
+Elapsed Time - ms: 764.00 ,ms: /s 1,000.00 , ns / ms: 999,998.95
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7559939
+TotalBytesAllocated - bytes: 489,040.00 ,bytes: /s 646,883.53 , ns / bytes: 1,545.87
+Elapsed Time - ms: 756.00 ,ms: /s 1,000.01 , ns / ms: 999,991.93
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7703671
+TotalBytesAllocated - bytes: 489,536.00 ,bytes: /s 635,458.08 , ns / bytes: 1,573.67
+Elapsed Time - ms: 770.00 ,ms: /s 999.52 , ns / ms: 1,000,476.75
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7606623
+TotalBytesAllocated - bytes: 489,536.00 ,bytes: /s 643,565.48 , ns / bytes: 1,553.84
+Elapsed Time - ms: 761.00 ,ms: /s 1,000.44 , ns / ms: 999,556.24
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7475506
+TotalBytesAllocated - bytes: 487,848.00 ,bytes: /s 652,595.29 , ns / bytes: 1,532.34
+Elapsed Time - ms: 747.00 ,ms: /s 999.26 , ns / ms: 1,000,737.08
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7762234
+TotalBytesAllocated - bytes: 484,928.00 ,bytes: /s 624,727.37 , ns / bytes: 1,600.70
+Elapsed Time - ms: 777.00 ,ms: /s 1,001.00 , ns / ms: 999,000.51
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7855744
+TotalBytesAllocated - bytes: 507,176.00 ,bytes: /s 645,611.67 , ns / bytes: 1,548.92
+Elapsed Time - ms: 785.00 ,ms: /s 999.27 , ns / ms: 1,000,731.72
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7284054
+TotalBytesAllocated - bytes: 494,960.00 ,bytes: /s 679,511.71 , ns / bytes: 1,471.64
+Elapsed Time - ms: 729.00 ,ms: /s 1,000.82 , ns / ms: 999,184.36
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7702873
+TotalBytesAllocated - bytes: 487,088.00 ,bytes: /s 632,345.88 , ns / bytes: 1,581.41
+Elapsed Time - ms: 770.00 ,ms: /s 999.63 , ns / ms: 1,000,373.12
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7640485
+TotalBytesAllocated - bytes: 489,304.00 ,bytes: /s 640,409.61 , ns / bytes: 1,561.50
+Elapsed Time - ms: 764.00 ,ms: /s 999.94 , ns / ms: 1,000,063.48
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7512355
+TotalBytesAllocated - bytes: 497,440.00 ,bytes: /s 662,162.53 , ns / bytes: 1,510.20
+Elapsed Time - ms: 751.00 ,ms: /s 999.69 , ns / ms: 1,000,313.58
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7975112
+TotalBytesAllocated - bytes: 489,520.00 ,bytes: /s 613,809.56 , ns / bytes: 1,629.17
+Elapsed Time - ms: 798.00 ,ms: /s 1,000.61 , ns / ms: 999,387.47
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7611763
+TotalBytesAllocated - bytes: 505,624.00 ,bytes: /s 664,266.61 , ns / bytes: 1,505.42
+Elapsed Time - ms: 761.00 ,ms: /s 999.77 , ns / ms: 1,000,231.67
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8034417
+TotalBytesAllocated - bytes: 497,400.00 ,bytes: /s 619,086.61 , ns / bytes: 1,615.28
+Elapsed Time - ms: 803.00 ,ms: /s 999.45 , ns / ms: 1,000,550.06
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7638087
+TotalBytesAllocated - bytes: 489,280.00 ,bytes: /s 640,579.24 , ns / bytes: 1,561.09
+Elapsed Time - ms: 764.00 ,ms: /s 1,000.25 , ns / ms: 999,749.61
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7981032
+TotalBytesAllocated - bytes: 497,648.00 ,bytes: /s 623,538.41 , ns / bytes: 1,603.75
+Elapsed Time - ms: 798.00 ,ms: /s 999.87 , ns / ms: 1,000,129.32
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7534761
+TotalBytesAllocated - bytes: 497,416.00 ,bytes: /s 660,161.62 , ns / bytes: 1,514.78
+Elapsed Time - ms: 753.00 ,ms: /s 999.37 , ns / ms: 1,000,632.27
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8641792
+TotalBytesAllocated - bytes: 497,536.00 ,bytes: /s 575,732.44 , ns / bytes: 1,736.92
+Elapsed Time - ms: 865.00 ,ms: /s 1,000.95 , ns / ms: 999,051.10
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7399789
+TotalBytesAllocated - bytes: 497,096.00 ,bytes: /s 671,770.51 , ns / bytes: 1,488.60
+Elapsed Time - ms: 740.00 ,ms: /s 1,000.03 , ns / ms: 999,971.49
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7633628
+TotalBytesAllocated - bytes: 497,464.00 ,bytes: /s 651,674.41 , ns / bytes: 1,534.51
+Elapsed Time - ms: 763.00 ,ms: /s 999.52 , ns / ms: 1,000,475.49
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7299722
+TotalBytesAllocated - bytes: 505,696.00 ,bytes: /s 692,760.63 , ns / bytes: 1,443.50
+Elapsed Time - ms: 730.00 ,ms: /s 1,000.04 , ns / ms: 999,961.92
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7565069
+TotalBytesAllocated - bytes: 497,584.00 ,bytes: /s 657,738.88 , ns / bytes: 1,520.36
+Elapsed Time - ms: 756.00 ,ms: /s 999.33 , ns / ms: 1,000,670.50
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7623905
+TotalBytesAllocated - bytes: 497,536.00 ,bytes: /s 652,599.95 , ns / bytes: 1,532.33
+Elapsed Time - ms: 762.00 ,ms: /s 999.49 , ns / ms: 1,000,512.47
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7900018
+TotalBytesAllocated - bytes: 497,488.00 ,bytes: /s 629,730.21 , ns / bytes: 1,587.98
+Elapsed Time - ms: 790.00 ,ms: /s 1,000.00 , ns / ms: 1,000,002.28
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8049211
+TotalBytesAllocated - bytes: 497,592.00 ,bytes: /s 618,187.30 , ns / bytes: 1,617.63
+Elapsed Time - ms: 805.00 ,ms: /s 1,000.10 , ns / ms: 999,901.99
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7532752
+TotalBytesAllocated - bytes: 497,384.00 ,bytes: /s 660,295.20 , ns / bytes: 1,514.47
+Elapsed Time - ms: 754.00 ,ms: /s 1,000.96 , ns / ms: 999,038.73
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7835608
+TotalBytesAllocated - bytes: 489,568.00 ,bytes: /s 624,798.99 , ns / bytes: 1,600.51
+Elapsed Time - ms: 783.00 ,ms: /s 999.28 , ns / ms: 1,000,716.22
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7972676
+TotalBytesAllocated - bytes: 497,552.00 ,bytes: /s 624,071.52 , ns / bytes: 1,602.38
+Elapsed Time - ms: 797.00 ,ms: /s 999.66 , ns / ms: 1,000,335.76
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7866706
+TotalBytesAllocated - bytes: 497,424.00 ,bytes: /s 632,315.48 , ns / bytes: 1,581.49
+Elapsed Time - ms: 787.00 ,ms: /s 1,000.42 , ns / ms: 999,581.45
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7412863
+TotalBytesAllocated - bytes: 488,992.00 ,bytes: /s 659,653.36 , ns / bytes: 1,515.95
+Elapsed Time - ms: 741.00 ,ms: /s 999.61 , ns / ms: 1,000,386.37
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7263915
+TotalBytesAllocated - bytes: 497,648.00 ,bytes: /s 685,096.12 , ns / bytes: 1,459.65
+Elapsed Time - ms: 727.00 ,ms: /s 1,000.84 , ns / ms: 999,163.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7472105
+TotalBytesAllocated - bytes: 489,176.00 ,bytes: /s 654,669.60 , ns / bytes: 1,527.49
+Elapsed Time - ms: 747.00 ,ms: /s 999.72 , ns / ms: 1,000,281.79
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7907136
+TotalBytesAllocated - bytes: 496,808.00 ,bytes: /s 628,303.35 , ns / bytes: 1,591.59
+Elapsed Time - ms: 791.00 ,ms: /s 1,000.36 , ns / ms: 999,637.93
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8565505
+TotalBytesAllocated - bytes: 489,320.00 ,bytes: /s 571,268.13 , ns / bytes: 1,750.49
+Elapsed Time - ms: 857.00 ,ms: /s 1,000.52 , ns / ms: 999,475.50
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7470904
+TotalBytesAllocated - bytes: 490,064.00 ,bytes: /s 655,963.46 , ns / bytes: 1,524.48
+Elapsed Time - ms: 747.00 ,ms: /s 999.88 , ns / ms: 1,000,121.02
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7443841
+TotalBytesAllocated - bytes: 479,840.00 ,bytes: /s 644,613.45 , ns / bytes: 1,551.32
+Elapsed Time - ms: 745.00 ,ms: /s 1,000.83 , ns / ms: 999,173.29
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7442104
+TotalBytesAllocated - bytes: 513,744.00 ,bytes: /s 690,320.91 , ns / bytes: 1,448.60
+Elapsed Time - ms: 744.00 ,ms: /s 999.72 , ns / ms: 1,000,282.80
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8156991
+TotalBytesAllocated - bytes: 494,336.00 ,bytes: /s 606,027.39 , ns / bytes: 1,650.09
+Elapsed Time - ms: 816.00 ,ms: /s 1,000.37 , ns / ms: 999,631.25
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8669910
+TotalBytesAllocated - bytes: 488,768.00 ,bytes: /s 563,752.10 , ns / bytes: 1,773.83
+Elapsed Time - ms: 867.00 ,ms: /s 1,000.01 , ns / ms: 999,989.62
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7590151
+TotalBytesAllocated - bytes: 497,440.00 ,bytes: /s 655,375.63 , ns / bytes: 1,525.84
+Elapsed Time - ms: 759.00 ,ms: /s 999.98 , ns / ms: 1,000,019.89
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7728559
+TotalBytesAllocated - bytes: 481,312.00 ,bytes: /s 622,770.69 , ns / bytes: 1,605.73
+Elapsed Time - ms: 773.00 ,ms: /s 1,000.19 , ns / ms: 999,813.58
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7455790
+TotalBytesAllocated - bytes: 489,024.00 ,bytes: /s 655,898.30 , ns / bytes: 1,524.63
+Elapsed Time - ms: 746.00 ,ms: /s 1,000.56 , ns / ms: 999,435.66
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7685866
+TotalBytesAllocated - bytes: 505,312.00 ,bytes: /s 657,456.17 , ns / bytes: 1,521.01
+Elapsed Time - ms: 768.00 ,ms: /s 999.24 , ns / ms: 1,000,763.80
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7955865
+TotalBytesAllocated - bytes: 505,640.00 ,bytes: /s 635,556.28 , ns / bytes: 1,573.42
+Elapsed Time - ms: 796.00 ,ms: /s 1,000.52 , ns / ms: 999,480.53
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7808054
+TotalBytesAllocated - bytes: 497,480.00 ,bytes: /s 637,136.99 , ns / bytes: 1,569.52
+Elapsed Time - ms: 781.00 ,ms: /s 1,000.25 , ns / ms: 999,750.83
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7851389
+TotalBytesAllocated - bytes: 497,392.00 ,bytes: /s 633,508.29 , ns / bytes: 1,578.51
+Elapsed Time - ms: 785.00 ,ms: /s 999.82 , ns / ms: 1,000,176.94
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7342884
+TotalBytesAllocated - bytes: 489,264.00 ,bytes: /s 666,310.40 , ns / bytes: 1,500.80
+Elapsed Time - ms: 734.00 ,ms: /s 999.61 , ns / ms: 1,000,392.92
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7170301
+TotalBytesAllocated - bytes: 505,560.00 ,bytes: /s 705,075.00 , ns / bytes: 1,418.29
+Elapsed Time - ms: 718.00 ,ms: /s 1,001.35 , ns / ms: 998,649.16
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8574495
+TotalBytesAllocated - bytes: 497,400.00 ,bytes: /s 580,092.47 , ns / bytes: 1,723.86
+Elapsed Time - ms: 857.00 ,ms: /s 999.48 , ns / ms: 1,000,524.50
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7608582
+TotalBytesAllocated - bytes: 497,416.00 ,bytes: /s 653,756.51 , ns / bytes: 1,529.62
+Elapsed Time - ms: 761.00 ,ms: /s 1,000.19 , ns / ms: 999,813.67
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7838385
+TotalBytesAllocated - bytes: 505,536.00 ,bytes: /s 644,949.18 , ns / bytes: 1,550.51
+Elapsed Time - ms: 783.00 ,ms: /s 998.93 , ns / ms: 1,001,070.88
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7959182
+TotalBytesAllocated - bytes: 497,496.00 ,bytes: /s 625,059.21 , ns / bytes: 1,599.85
+Elapsed Time - ms: 796.00 ,ms: /s 1,000.10 , ns / ms: 999,897.24
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8051874
+TotalBytesAllocated - bytes: 489,240.00 ,bytes: /s 607,610.10 , ns / bytes: 1,645.79
+Elapsed Time - ms: 805.00 ,ms: /s 999.77 , ns / ms: 1,000,232.80
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8152716
+TotalBytesAllocated - bytes: 489,504.00 ,bytes: /s 600,418.31 , ns / bytes: 1,665.51
+Elapsed Time - ms: 816.00 ,ms: /s 1,000.89 , ns / ms: 999,107.35
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7687836
+TotalBytesAllocated - bytes: 497,232.00 ,bytes: /s 646,777.58 , ns / bytes: 1,546.13
+Elapsed Time - ms: 769.00 ,ms: /s 1,000.28 , ns / ms: 999,718.60
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7867842
+TotalBytesAllocated - bytes: 489,424.00 ,bytes: /s 622,056.21 , ns / bytes: 1,607.57
+Elapsed Time - ms: 787.00 ,ms: /s 1,000.27 , ns / ms: 999,725.79
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7660297
+TotalBytesAllocated - bytes: 506,144.00 ,bytes: /s 660,736.78 , ns / bytes: 1,513.46
+Elapsed Time - ms: 766.00 ,ms: /s 999.96 , ns / ms: 1,000,038.77
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7202709
+TotalBytesAllocated - bytes: 497,320.00 ,bytes: /s 690,462.44 , ns / bytes: 1,448.30
+Elapsed Time - ms: 720.00 ,ms: /s 999.62 , ns / ms: 1,000,376.25
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7921389
+TotalBytesAllocated - bytes: 497,440.00 ,bytes: /s 627,970.68 , ns / bytes: 1,592.43
+Elapsed Time - ms: 792.00 ,ms: /s 999.82 , ns / ms: 1,000,175.38
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8015605
+TotalBytesAllocated - bytes: 497,368.00 ,bytes: /s 620,499.64 , ns / bytes: 1,611.60
+Elapsed Time - ms: 802.00 ,ms: /s 1,000.55 , ns / ms: 999,452.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7600709
+TotalBytesAllocated - bytes: 489,240.00 ,bytes: /s 643,676.79 , ns / bytes: 1,553.57
+Elapsed Time - ms: 760.00 ,ms: /s 999.91 , ns / ms: 1,000,093.29
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8316317
+TotalBytesAllocated - bytes: 505,440.00 ,bytes: /s 607,769.04 , ns / bytes: 1,645.36
+Elapsed Time - ms: 832.00 ,ms: /s 1,000.44 , ns / ms: 999,557.33
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8059992
+TotalBytesAllocated - bytes: 497,296.00 ,bytes: /s 616,993.17 , ns / bytes: 1,620.76
+Elapsed Time - ms: 806.00 ,ms: /s 1,000.00 , ns / ms: 999,999.01
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7868868
+TotalBytesAllocated - bytes: 505,584.00 ,bytes: /s 642,511.73 , ns / bytes: 1,556.39
+Elapsed Time - ms: 787.00 ,ms: /s 1,000.14 , ns / ms: 999,856.16
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7915166
+TotalBytesAllocated - bytes: 505,536.00 ,bytes: /s 638,692.86 , ns / bytes: 1,565.70
+Elapsed Time - ms: 791.00 ,ms: /s 999.35 , ns / ms: 1,000,653.10
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8332126
+TotalBytesAllocated - bytes: 500,008.00 ,bytes: /s 600,096.54 , ns / bytes: 1,666.40
+Elapsed Time - ms: 833.00 ,ms: /s 999.74 , ns / ms: 1,000,255.22
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8088193
+TotalBytesAllocated - bytes: 505,760.00 ,bytes: /s 625,306.54 , ns / bytes: 1,599.22
+Elapsed Time - ms: 808.00 ,ms: /s 998.99 , ns / ms: 1,001,013.99
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7291463
+TotalBytesAllocated - bytes: 503,944.00 ,bytes: /s 691,142.50 , ns / bytes: 1,446.88
+Elapsed Time - ms: 729.00 ,ms: /s 999.80 , ns / ms: 1,000,200.69
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8257116
+TotalBytesAllocated - bytes: 503,456.00 ,bytes: /s 609,723.78 , ns / bytes: 1,640.09
+Elapsed Time - ms: 825.00 ,ms: /s 999.14 , ns / ms: 1,000,862.55
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7675395
+TotalBytesAllocated - bytes: 495,184.00 ,bytes: /s 645,157.68 , ns / bytes: 1,550.01
+Elapsed Time - ms: 767.00 ,ms: /s 999.30 , ns / ms: 1,000,703.39
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8282359
+TotalBytesAllocated - bytes: 500,736.00 ,bytes: /s 604,581.38 , ns / bytes: 1,654.04
+Elapsed Time - ms: 828.00 ,ms: /s 999.72 , ns / ms: 1,000,284.90
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7933466
+TotalBytesAllocated - bytes: 481,096.00 ,bytes: /s 606,413.39 , ns / bytes: 1,649.04
+Elapsed Time - ms: 793.00 ,ms: /s 999.56 , ns / ms: 1,000,437.07
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7674232
+TotalBytesAllocated - bytes: 497,560.00 ,bytes: /s 648,351.52 , ns / bytes: 1,542.37
+Elapsed Time - ms: 768.00 ,ms: /s 1,000.75 , ns / ms: 999,248.96
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7637354
+TotalBytesAllocated - bytes: 497,208.00 ,bytes: /s 651,021.28 , ns / bytes: 1,536.05
+Elapsed Time - ms: 764.00 ,ms: /s 1,000.35 , ns / ms: 999,653.66
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8396616
+TotalBytesAllocated - bytes: 522,080.00 ,bytes: /s 621,774.30 , ns / bytes: 1,608.30
+Elapsed Time - ms: 839.00 ,ms: /s 999.21 , ns / ms: 1,000,788.56
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7815142
+TotalBytesAllocated - bytes: 497,376.00 ,bytes: /s 636,426.06 , ns / bytes: 1,571.27
+Elapsed Time - ms: 782.00 ,ms: /s 1,000.62 , ns / ms: 999,378.77
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8687995
+TotalBytesAllocated - bytes: 505,624.00 ,bytes: /s 581,980.08 , ns / bytes: 1,718.27
+Elapsed Time - ms: 869.00 ,ms: /s 1,000.23 , ns / ms: 999,769.28
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8447950
+TotalBytesAllocated - bytes: 513,616.00 ,bytes: /s 607,977.08 , ns / bytes: 1,644.80
+Elapsed Time - ms: 845.00 ,ms: /s 1,000.24 , ns / ms: 999,757.40
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7885754
+TotalBytesAllocated - bytes: 489,248.00 ,bytes: /s 620,420.06 , ns / bytes: 1,611.81
+Elapsed Time - ms: 788.00 ,ms: /s 999.27 , ns / ms: 1,000,730.20
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8001077
+TotalBytesAllocated - bytes: 505,120.00 ,bytes: /s 631,315.01 , ns / bytes: 1,584.00
+Elapsed Time - ms: 800.00 ,ms: /s 999.87 , ns / ms: 1,000,134.63
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7922993
+TotalBytesAllocated - bytes: 497,168.00 ,bytes: /s 627,500.24 , ns / bytes: 1,593.62
+Elapsed Time - ms: 792.00 ,ms: /s 999.62 , ns / ms: 1,000,377.90
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8117206
+TotalBytesAllocated - bytes: 505,664.00 ,bytes: /s 622,953.27 , ns / bytes: 1,605.26
+Elapsed Time - ms: 812.00 ,ms: /s 1,000.34 , ns / ms: 999,655.91
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8006237
+TotalBytesAllocated - bytes: 489,152.00 ,bytes: /s 610,963.68 , ns / bytes: 1,636.76
+Elapsed Time - ms: 801.00 ,ms: /s 1,000.47 , ns / ms: 999,530.21
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8526499
+TotalBytesAllocated - bytes: 505,840.00 ,bytes: /s 593,256.39 , ns / bytes: 1,685.61
+Elapsed Time - ms: 853.00 ,ms: /s 1,000.41 , ns / ms: 999,589.57
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8065702
+TotalBytesAllocated - bytes: 489,168.00 ,bytes: /s 606,479.14 , ns / bytes: 1,648.86
+Elapsed Time - ms: 807.00 ,ms: /s 1,000.53 , ns / ms: 999,467.41
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.1316091
+TotalBytesAllocated - bytes: 513,776.00 ,bytes: /s 454,022.51 , ns / bytes: 2,202.53
+Elapsed Time - ms: 1,132.00 ,ms: /s 1,000.35 , ns / ms: 999,654.68
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8201935
+TotalBytesAllocated - bytes: 505,744.00 ,bytes: /s 616,615.47 , ns / bytes: 1,621.76
+Elapsed Time - ms: 821.00 ,ms: /s 1,000.98 , ns / ms: 999,017.66
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7687281
+TotalBytesAllocated - bytes: 489,288.00 ,bytes: /s 636,490.33 , ns / bytes: 1,571.12
+Elapsed Time - ms: 768.00 ,ms: /s 999.05 , ns / ms: 1,000,948.05
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8015765
+TotalBytesAllocated - bytes: 489,440.00 ,bytes: /s 610,596.74 , ns / bytes: 1,637.74
+Elapsed Time - ms: 802.00 ,ms: /s 1,000.53 , ns / ms: 999,471.95
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7681699
+TotalBytesAllocated - bytes: 489,208.00 ,bytes: /s 636,848.70 , ns / bytes: 1,570.23
+Elapsed Time - ms: 768.00 ,ms: /s 999.78 , ns / ms: 1,000,221.22
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7899914
+TotalBytesAllocated - bytes: 503,592.00 ,bytes: /s 637,465.17 , ns / bytes: 1,568.71
+Elapsed Time - ms: 790.00 ,ms: /s 1,000.01 , ns / ms: 999,989.11
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7775219
+TotalBytesAllocated - bytes: 497,256.00 ,bytes: /s 639,539.54 , ns / bytes: 1,563.62
+Elapsed Time - ms: 778.00 ,ms: /s 1,000.61 , ns / ms: 999,385.48
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8243994
+TotalBytesAllocated - bytes: 497,472.00 ,bytes: /s 603,435.66 , ns / bytes: 1,657.18
+Elapsed Time - ms: 825.00 ,ms: /s 1,000.73 , ns / ms: 999,272.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8164549
+TotalBytesAllocated - bytes: 505,520.00 ,bytes: /s 619,164.63 , ns / bytes: 1,615.08
+Elapsed Time - ms: 817.00 ,ms: /s 1,000.67 , ns / ms: 999,332.80
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8248755
+TotalBytesAllocated - bytes: 497,456.00 ,bytes: /s 603,067.98 , ns / bytes: 1,658.19
+Elapsed Time - ms: 825.00 ,ms: /s 1,000.15 , ns / ms: 999,849.09
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8226930
+TotalBytesAllocated - bytes: 505,792.00 ,bytes: /s 614,800.42 , ns / bytes: 1,626.54
+Elapsed Time - ms: 823.00 ,ms: /s 1,000.37 , ns / ms: 999,626.97
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7202404
+TotalBytesAllocated - bytes: 485,712.00 ,bytes: /s 674,374.83 , ns / bytes: 1,482.85
+Elapsed Time - ms: 721.00 ,ms: /s 1,001.05 , ns / ms: 998,946.46
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8121803
+TotalBytesAllocated - bytes: 491,360.00 ,bytes: /s 604,988.82 , ns / bytes: 1,652.92
+Elapsed Time - ms: 813.00 ,ms: /s 1,001.01 , ns / ms: 998,991.76
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7931992
+TotalBytesAllocated - bytes: 497,016.00 ,bytes: /s 626,596.70 , ns / bytes: 1,595.92
+Elapsed Time - ms: 793.00 ,ms: /s 999.75 , ns / ms: 1,000,251.20
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7990485
+TotalBytesAllocated - bytes: 511,080.00 ,bytes: /s 639,610.74 , ns / bytes: 1,563.45
+Elapsed Time - ms: 799.00 ,ms: /s 999.94 , ns / ms: 1,000,060.70
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8114642
+TotalBytesAllocated - bytes: 486,936.00 ,bytes: /s 600,070.83 , ns / bytes: 1,666.47
+Elapsed Time - ms: 811.00 ,ms: /s 999.43 , ns / ms: 1,000,572.38
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7652662
+TotalBytesAllocated - bytes: 492,960.00 ,bytes: /s 644,168.00 , ns / bytes: 1,552.39
+Elapsed Time - ms: 765.00 ,ms: /s 999.65 , ns / ms: 1,000,347.97
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8172930
+TotalBytesAllocated - bytes: 497,400.00 ,bytes: /s 608,594.47 , ns / bytes: 1,643.13
+Elapsed Time - ms: 817.00 ,ms: /s 999.64 , ns / ms: 1,000,358.63
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8772871
+TotalBytesAllocated - bytes: 505,640.00 ,bytes: /s 576,367.76 , ns / bytes: 1,735.00
+Elapsed Time - ms: 877.00 ,ms: /s 999.67 , ns / ms: 1,000,327.37
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8304013
+TotalBytesAllocated - bytes: 505,600.00 ,bytes: /s 608,862.25 , ns / bytes: 1,642.41
+Elapsed Time - ms: 830.00 ,ms: /s 999.52 , ns / ms: 1,000,483.49
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8064662
+TotalBytesAllocated - bytes: 497,472.00 ,bytes: /s 616,854.12 , ns / bytes: 1,621.13
+Elapsed Time - ms: 806.00 ,ms: /s 999.42 , ns / ms: 1,000,578.41
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8018046
+TotalBytesAllocated - bytes: 497,464.00 ,bytes: /s 620,430.46 , ns / bytes: 1,611.78
+Elapsed Time - ms: 802.00 ,ms: /s 1,000.24 , ns / ms: 999,756.36
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7072853
+TotalBytesAllocated - bytes: 497,440.00 ,bytes: /s 703,308.83 , ns / bytes: 1,421.85
+Elapsed Time - ms: 707.00 ,ms: /s 999.60 , ns / ms: 1,000,403.54
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7761470
+TotalBytesAllocated - bytes: 497,704.00 ,bytes: /s 641,249.66 , ns / bytes: 1,559.46
+Elapsed Time - ms: 776.00 ,ms: /s 999.81 , ns / ms: 1,000,189.43
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7478167
+TotalBytesAllocated - bytes: 497,208.00 ,bytes: /s 664,879.51 , ns / bytes: 1,504.03
+Elapsed Time - ms: 748.00 ,ms: /s 1,000.25 , ns / ms: 999,754.95
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7574088
+TotalBytesAllocated - bytes: 496,888.00 ,bytes: /s 656,036.74 , ns / bytes: 1,524.30
+Elapsed Time - ms: 757.00 ,ms: /s 999.46 , ns / ms: 1,000,540.03
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7579887
+TotalBytesAllocated - bytes: 505,736.00 ,bytes: /s 667,207.84 , ns / bytes: 1,498.78
+Elapsed Time - ms: 758.00 ,ms: /s 1,000.01 , ns / ms: 999,985.09
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7797316
+TotalBytesAllocated - bytes: 505,720.00 ,bytes: /s 648,582.15 , ns / bytes: 1,541.82
+Elapsed Time - ms: 780.00 ,ms: /s 1,000.34 , ns / ms: 999,655.90
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7631538
+TotalBytesAllocated - bytes: 505,960.00 ,bytes: /s 662,985.63 , ns / bytes: 1,508.33
+Elapsed Time - ms: 763.00 ,ms: /s 999.80 , ns / ms: 1,000,201.57
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7301458
+TotalBytesAllocated - bytes: 513,760.00 ,bytes: /s 703,640.29 , ns / bytes: 1,421.18
+Elapsed Time - ms: 730.00 ,ms: /s 999.80 , ns / ms: 1,000,199.73
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7173081
+TotalBytesAllocated - bytes: 505,872.00 ,bytes: /s 705,236.70 , ns / bytes: 1,417.96
+Elapsed Time - ms: 718.00 ,ms: /s 1,000.96 , ns / ms: 999,036.35
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7517851
+TotalBytesAllocated - bytes: 505,824.00 ,bytes: /s 672,830.57 , ns / bytes: 1,486.26
+Elapsed Time - ms: 752.00 ,ms: /s 1,000.29 , ns / ms: 999,714.23
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7495150
+TotalBytesAllocated - bytes: 488,936.00 ,bytes: /s 652,336.51 , ns / bytes: 1,532.95
+Elapsed Time - ms: 749.00 ,ms: /s 999.31 , ns / ms: 1,000,687.58
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7949863
+TotalBytesAllocated - bytes: 505,264.00 ,bytes: /s 635,563.15 , ns / bytes: 1,573.41
+Elapsed Time - ms: 795.00 ,ms: /s 1,000.02 , ns / ms: 999,982.77
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7546744
+TotalBytesAllocated - bytes: 505,320.00 ,bytes: /s 669,586.78 , ns / bytes: 1,493.46
+Elapsed Time - ms: 754.00 ,ms: /s 999.11 , ns / ms: 1,000,894.43
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7898608
+TotalBytesAllocated - bytes: 497,512.00 ,bytes: /s 629,873.01 , ns / bytes: 1,587.62
+Elapsed Time - ms: 790.00 ,ms: /s 1,000.18 , ns / ms: 999,823.80
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7764341
+TotalBytesAllocated - bytes: 497,760.00 ,bytes: /s 641,084.67 , ns / bytes: 1,559.86
+Elapsed Time - ms: 777.00 ,ms: /s 1,000.73 , ns / ms: 999,271.69
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7243890
+TotalBytesAllocated - bytes: 505,832.00 ,bytes: /s 698,287.80 , ns / bytes: 1,432.07
+Elapsed Time - ms: 724.00 ,ms: /s 999.46 , ns / ms: 1,000,537.29
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7477912
+TotalBytesAllocated - bytes: 505,304.00 ,bytes: /s 675,728.73 , ns / bytes: 1,479.88
+Elapsed Time - ms: 748.00 ,ms: /s 1,000.28 , ns / ms: 999,720.86
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7341288
+TotalBytesAllocated - bytes: 496,600.00 ,bytes: /s 676,448.06 , ns / bytes: 1,478.31
+Elapsed Time - ms: 734.00 ,ms: /s 999.82 , ns / ms: 1,000,175.48
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7552664
+TotalBytesAllocated - bytes: 489,312.00 ,bytes: /s 647,866.77 , ns / bytes: 1,543.53
+Elapsed Time - ms: 755.00 ,ms: /s 999.65 , ns / ms: 1,000,352.85
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7434830
+TotalBytesAllocated - bytes: 505,768.00 ,bytes: /s 680,268.41 , ns / bytes: 1,470.01
+Elapsed Time - ms: 744.00 ,ms: /s 1,000.70 , ns / ms: 999,305.11
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8481622
+TotalBytesAllocated - bytes: 498,832.00 ,bytes: /s 588,132.79 , ns / bytes: 1,700.30
+Elapsed Time - ms: 848.00 ,ms: /s 999.81 , ns / ms: 1,000,191.27
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8141746
+TotalBytesAllocated - bytes: 491,544.00 ,bytes: /s 603,732.91 , ns / bytes: 1,656.36
+Elapsed Time - ms: 814.00 ,ms: /s 999.79 , ns / ms: 1,000,214.50
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7856151
+TotalBytesAllocated - bytes: 491,432.00 ,bytes: /s 625,537.87 , ns / bytes: 1,598.62
+Elapsed Time - ms: 786.00 ,ms: /s 1,000.49 , ns / ms: 999,510.31
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7994347
+TotalBytesAllocated - bytes: 513,680.00 ,bytes: /s 642,554.04 , ns / bytes: 1,556.29
+Elapsed Time - ms: 799.00 ,ms: /s 999.46 , ns / ms: 1,000,544.06
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7879270
+TotalBytesAllocated - bytes: 489,624.00 ,bytes: /s 621,407.82 , ns / bytes: 1,609.25
+Elapsed Time - ms: 788.00 ,ms: /s 1,000.09 , ns / ms: 999,907.36
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8925422
+TotalBytesAllocated - bytes: 496,136.00 ,bytes: /s 555,868.39 , ns / bytes: 1,798.99
+Elapsed Time - ms: 892.00 ,ms: /s 999.39 , ns / ms: 1,000,607.85
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8719679
+TotalBytesAllocated - bytes: 504,000.00 ,bytes: /s 578,002.93 , ns / bytes: 1,730.10
+Elapsed Time - ms: 872.00 ,ms: /s 1,000.04 , ns / ms: 999,963.19
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9169745
+TotalBytesAllocated - bytes: 497,440.00 ,bytes: /s 542,479.64 , ns / bytes: 1,843.39
+Elapsed Time - ms: 917.00 ,ms: /s 1,000.03 , ns / ms: 999,972.19
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8696389
+TotalBytesAllocated - bytes: 497,408.00 ,bytes: /s 571,970.73 , ns / bytes: 1,748.34
+Elapsed Time - ms: 869.00 ,ms: /s 999.27 , ns / ms: 1,000,735.21
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9254071
+TotalBytesAllocated - bytes: 497,464.00 ,bytes: /s 537,562.33 , ns / bytes: 1,860.25
+Elapsed Time - ms: 925.00 ,ms: /s 999.56 , ns / ms: 1,000,440.11
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8864688
+TotalBytesAllocated - bytes: 497,496.00 ,bytes: /s 561,210.95 , ns / bytes: 1,781.86
+Elapsed Time - ms: 887.00 ,ms: /s 1,000.60 , ns / ms: 999,401.13
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8857329
+TotalBytesAllocated - bytes: 497,888.00 ,bytes: /s 562,119.80 , ns / bytes: 1,778.98
+Elapsed Time - ms: 886.00 ,ms: /s 1,000.30 , ns / ms: 999,698.53
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8084658
+TotalBytesAllocated - bytes: 506,272.00 ,bytes: /s 626,213.25 , ns / bytes: 1,596.90
+Elapsed Time - ms: 809.00 ,ms: /s 1,000.66 , ns / ms: 999,339.68
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9164086
+TotalBytesAllocated - bytes: 506,016.00 ,bytes: /s 552,172.91 , ns / bytes: 1,811.03
+Elapsed Time - ms: 916.00 ,ms: /s 999.55 , ns / ms: 1,000,446.07
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8525132
+TotalBytesAllocated - bytes: 497,080.00 ,bytes: /s 583,076.02 , ns / bytes: 1,715.04
+Elapsed Time - ms: 853.00 ,ms: /s 1,000.57 , ns / ms: 999,429.31
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8726835
+TotalBytesAllocated - bytes: 489,240.00 ,bytes: /s 560,615.62 , ns / bytes: 1,783.75
+Elapsed Time - ms: 873.00 ,ms: /s 1,000.36 , ns / ms: 999,637.46
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8783131
+TotalBytesAllocated - bytes: 497,472.00 ,bytes: /s 566,394.83 , ns / bytes: 1,765.55
+Elapsed Time - ms: 878.00 ,ms: /s 999.64 , ns / ms: 1,000,356.61
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8847266
+TotalBytesAllocated - bytes: 505,784.00 ,bytes: /s 571,683.95 , ns / bytes: 1,749.22
+Elapsed Time - ms: 884.00 ,ms: /s 999.18 , ns / ms: 1,000,821.95
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9013837
+TotalBytesAllocated - bytes: 497,400.00 ,bytes: /s 551,818.28 , ns / bytes: 1,812.19
+Elapsed Time - ms: 902.00 ,ms: /s 1,000.68 , ns / ms: 999,316.74
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8884608
+TotalBytesAllocated - bytes: 505,136.00 ,bytes: /s 568,551.81 , ns / bytes: 1,758.85
+Elapsed Time - ms: 888.00 ,ms: /s 999.48 , ns / ms: 1,000,518.92
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9977605
+TotalBytesAllocated - bytes: 505,728.00 ,bytes: /s 506,863.12 , ns / bytes: 1,972.92
+Elapsed Time - ms: 998.00 ,ms: /s 1,000.24 , ns / ms: 999,760.02
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9498377
+TotalBytesAllocated - bytes: 496,368.00 ,bytes: /s 522,581.91 , ns / bytes: 1,913.58
+Elapsed Time - ms: 950.00 ,ms: /s 1,000.17 , ns / ms: 999,829.16
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8275890
+TotalBytesAllocated - bytes: 489,344.00 ,bytes: /s 591,288.67 , ns / bytes: 1,691.22
+Elapsed Time - ms: 828.00 ,ms: /s 1,000.50 , ns / ms: 999,503.62
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8470247
+TotalBytesAllocated - bytes: 505,128.00 ,bytes: /s 596,355.69 , ns / bytes: 1,676.85
+Elapsed Time - ms: 847.00 ,ms: /s 999.97 , ns / ms: 1,000,029.16
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8774934
+TotalBytesAllocated - bytes: 529,928.00 ,bytes: /s 603,911.09 , ns / bytes: 1,655.87
+Elapsed Time - ms: 878.00 ,ms: /s 1,000.58 , ns / ms: 999,423.01
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8284697
+TotalBytesAllocated - bytes: 489,504.00 ,bytes: /s 590,853.23 , ns / bytes: 1,692.47
+Elapsed Time - ms: 828.00 ,ms: /s 999.43 , ns / ms: 1,000,567.27
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7639916
+TotalBytesAllocated - bytes: 489,560.00 ,bytes: /s 640,792.39 , ns / bytes: 1,560.57
+Elapsed Time - ms: 764.00 ,ms: /s 1,000.01 , ns / ms: 999,989.01
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7824309
+TotalBytesAllocated - bytes: 497,416.00 ,bytes: /s 635,731.54 , ns / bytes: 1,572.99
+Elapsed Time - ms: 783.00 ,ms: /s 1,000.73 , ns / ms: 999,273.18
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7763812
+TotalBytesAllocated - bytes: 497,440.00 ,bytes: /s 640,716.18 , ns / bytes: 1,560.75
+Elapsed Time - ms: 777.00 ,ms: /s 1,000.80 , ns / ms: 999,203.60
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7931944
+TotalBytesAllocated - bytes: 505,696.00 ,bytes: /s 637,543.58 , ns / bytes: 1,568.52
+Elapsed Time - ms: 793.00 ,ms: /s 999.75 , ns / ms: 1,000,245.15
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7730382
+TotalBytesAllocated - bytes: 505,640.00 ,bytes: /s 654,094.45 , ns / bytes: 1,528.83
+Elapsed Time - ms: 774.00 ,ms: /s 1,001.24 , ns / ms: 998,757.36
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7672439
+TotalBytesAllocated - bytes: 497,528.00 ,bytes: /s 648,461.33 , ns / bytes: 1,542.11
+Elapsed Time - ms: 767.00 ,ms: /s 999.68 , ns / ms: 1,000,317.99
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8535827
+TotalBytesAllocated - bytes: 505,544.00 ,bytes: /s 592,261.30 , ns / bytes: 1,688.44
+Elapsed Time - ms: 854.00 ,ms: /s 1,000.49 , ns / ms: 999,511.36
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8393462
+TotalBytesAllocated - bytes: 505,696.00 ,bytes: /s 602,487.98 , ns / bytes: 1,659.78
+Elapsed Time - ms: 839.00 ,ms: /s 999.59 , ns / ms: 1,000,412.63
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8360877
+TotalBytesAllocated - bytes: 497,432.00 ,bytes: /s 594,951.94 , ns / bytes: 1,680.81
+Elapsed Time - ms: 837.00 ,ms: /s 1,001.09 , ns / ms: 998,910.04
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8134925
+TotalBytesAllocated - bytes: 497,432.00 ,bytes: /s 611,477.06 , ns / bytes: 1,635.38
+Elapsed Time - ms: 814.00 ,ms: /s 1,000.62 , ns / ms: 999,376.54
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7810793
+TotalBytesAllocated - bytes: 505,464.00 ,bytes: /s 647,135.32 , ns / bytes: 1,545.27
+Elapsed Time - ms: 781.00 ,ms: /s 999.90 , ns / ms: 1,000,101.54
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8108096
+TotalBytesAllocated - bytes: 489,224.00 ,bytes: /s 603,377.17 , ns / bytes: 1,657.34
+Elapsed Time - ms: 811.00 ,ms: /s 1,000.23 , ns / ms: 999,765.23
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8347423
+TotalBytesAllocated - bytes: 498,168.00 ,bytes: /s 596,792.57 , ns / bytes: 1,675.62
+Elapsed Time - ms: 835.00 ,ms: /s 1,000.31 , ns / ms: 999,691.38
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8118249
+TotalBytesAllocated - bytes: 505,904.00 ,bytes: /s 623,168.86 , ns / bytes: 1,604.70
+Elapsed Time - ms: 812.00 ,ms: /s 1,000.22 , ns / ms: 999,784.36
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7951954
+TotalBytesAllocated - bytes: 505,776.00 ,bytes: /s 636,039.90 , ns / bytes: 1,572.23
+Elapsed Time - ms: 795.00 ,ms: /s 999.75 , ns / ms: 1,000,245.79
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8574620
+TotalBytesAllocated - bytes: 505,592.00 ,bytes: /s 589,637.79 , ns / bytes: 1,695.96
+Elapsed Time - ms: 857.00 ,ms: /s 999.46 , ns / ms: 1,000,539.09
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8041250
+TotalBytesAllocated - bytes: 505,632.00 ,bytes: /s 628,797.76 , ns / bytes: 1,590.34
+Elapsed Time - ms: 804.00 ,ms: /s 999.84 , ns / ms: 1,000,155.47
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8203496
+TotalBytesAllocated - bytes: 497,200.00 ,bytes: /s 606,083.07 , ns / bytes: 1,649.94
+Elapsed Time - ms: 820.00 ,ms: /s 999.57 , ns / ms: 1,000,426.34
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7971750
+TotalBytesAllocated - bytes: 497,392.00 ,bytes: /s 623,943.30 , ns / bytes: 1,602.71
+Elapsed Time - ms: 797.00 ,ms: /s 999.78 , ns / ms: 1,000,219.57
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7874674
+TotalBytesAllocated - bytes: 505,664.00 ,bytes: /s 642,139.60 , ns / bytes: 1,557.29
+Elapsed Time - ms: 788.00 ,ms: /s 1,000.68 , ns / ms: 999,324.11
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7777850
+TotalBytesAllocated - bytes: 505,640.00 ,bytes: /s 650,102.53 , ns / bytes: 1,538.22
+Elapsed Time - ms: 778.00 ,ms: /s 1,000.28 , ns / ms: 999,723.65
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7872146
+TotalBytesAllocated - bytes: 497,432.00 ,bytes: /s 631,888.69 , ns / bytes: 1,582.56
+Elapsed Time - ms: 787.00 ,ms: /s 999.73 , ns / ms: 1,000,272.68
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8355582
+TotalBytesAllocated - bytes: 489,264.00 ,bytes: /s 585,553.47 , ns / bytes: 1,707.79
+Elapsed Time - ms: 835.00 ,ms: /s 999.33 , ns / ms: 1,000,668.50
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7963304
+TotalBytesAllocated - bytes: 497,304.00 ,bytes: /s 624,494.56 , ns / bytes: 1,601.29
+Elapsed Time - ms: 796.00 ,ms: /s 999.59 , ns / ms: 1,000,415.08
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8349994
+TotalBytesAllocated - bytes: 489,256.00 ,bytes: /s 585,935.75 , ns / bytes: 1,706.67
+Elapsed Time - ms: 835.00 ,ms: /s 1,000.00 , ns / ms: 999,999.28
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8241411
+TotalBytesAllocated - bytes: 497,248.00 ,bytes: /s 603,352.99 , ns / bytes: 1,657.40
+Elapsed Time - ms: 824.00 ,ms: /s 999.83 , ns / ms: 1,000,171.24
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8259084
+TotalBytesAllocated - bytes: 497,544.00 ,bytes: /s 602,420.32 , ns / bytes: 1,659.97
+Elapsed Time - ms: 826.00 ,ms: /s 1,000.11 , ns / ms: 999,889.10
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8288438
+TotalBytesAllocated - bytes: 497,576.00 ,bytes: /s 600,325.42 , ns / bytes: 1,665.76
+Elapsed Time - ms: 829.00 ,ms: /s 1,000.19 , ns / ms: 999,811.58
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7948082
+TotalBytesAllocated - bytes: 497,880.00 ,bytes: /s 626,415.28 , ns / bytes: 1,596.39
+Elapsed Time - ms: 795.00 ,ms: /s 1,000.24 , ns / ms: 999,758.74
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8116401
+TotalBytesAllocated - bytes: 505,616.00 ,bytes: /s 622,955.91 , ns / bytes: 1,605.25
+Elapsed Time - ms: 812.00 ,ms: /s 1,000.44 , ns / ms: 999,556.77
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7974502
+TotalBytesAllocated - bytes: 497,664.00 ,bytes: /s 624,069.06 , ns / bytes: 1,602.39
+Elapsed Time - ms: 797.00 ,ms: /s 999.44 , ns / ms: 1,000,564.87
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8135641
+TotalBytesAllocated - bytes: 489,488.00 ,bytes: /s 601,658.80 , ns / bytes: 1,662.07
+Elapsed Time - ms: 814.00 ,ms: /s 1,000.54 , ns / ms: 999,464.50
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7707245
+TotalBytesAllocated - bytes: 508,512.00 ,bytes: /s 659,784.40 , ns / bytes: 1,515.65
+Elapsed Time - ms: 770.00 ,ms: /s 999.06 , ns / ms: 1,000,940.91
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8368089
+TotalBytesAllocated - bytes: 495,912.00 ,bytes: /s 592,622.76 , ns / bytes: 1,687.41
+Elapsed Time - ms: 837.00 ,ms: /s 1,000.23 , ns / ms: 999,771.68
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7900081
+TotalBytesAllocated - bytes: 501,856.00 ,bytes: /s 635,254.25 , ns / bytes: 1,574.17
+Elapsed Time - ms: 790.00 ,ms: /s 999.99 , ns / ms: 1,000,010.25
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8448279
+TotalBytesAllocated - bytes: 496,936.00 ,bytes: /s 588,209.74 , ns / bytes: 1,700.07
+Elapsed Time - ms: 845.00 ,ms: /s 1,000.20 , ns / ms: 999,796.33
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8030743
+TotalBytesAllocated - bytes: 502,944.00 ,bytes: /s 626,273.31 , ns / bytes: 1,596.75
+Elapsed Time - ms: 803.00 ,ms: /s 999.91 , ns / ms: 1,000,092.53
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8434112
+TotalBytesAllocated - bytes: 495,216.00 ,bytes: /s 587,158.43 , ns / bytes: 1,703.12
+Elapsed Time - ms: 843.00 ,ms: /s 999.51 , ns / ms: 1,000,487.78
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8573928
+TotalBytesAllocated - bytes: 484,456.00 ,bytes: /s 565,033.90 , ns / bytes: 1,769.81
+Elapsed Time - ms: 858.00 ,ms: /s 1,000.71 , ns / ms: 999,292.31
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8161758
+TotalBytesAllocated - bytes: 495,264.00 ,bytes: /s 606,810.44 , ns / bytes: 1,647.96
+Elapsed Time - ms: 816.00 ,ms: /s 999.78 , ns / ms: 1,000,215.44
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8935382
+TotalBytesAllocated - bytes: 492,200.00 ,bytes: /s 550,843.83 , ns / bytes: 1,815.40
+Elapsed Time - ms: 894.00 ,ms: /s 1,000.52 , ns / ms: 999,483.45
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8278305
+TotalBytesAllocated - bytes: 495,128.00 ,bytes: /s 598,103.11 , ns / bytes: 1,671.95
+Elapsed Time - ms: 828.00 ,ms: /s 1,000.20 , ns / ms: 999,795.29
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8309005
+TotalBytesAllocated - bytes: 495,216.00 ,bytes: /s 595,999.16 , ns / bytes: 1,677.85
+Elapsed Time - ms: 831.00 ,ms: /s 1,000.12 , ns / ms: 999,880.26
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8497679
+TotalBytesAllocated - bytes: 492,192.00 ,bytes: /s 579,207.57 , ns / bytes: 1,726.50
+Elapsed Time - ms: 849.00 ,ms: /s 999.10 , ns / ms: 1,000,904.48
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8141793
+TotalBytesAllocated - bytes: 506,096.00 ,bytes: /s 621,602.64 , ns / bytes: 1,608.74
+Elapsed Time - ms: 815.00 ,ms: /s 1,001.01 , ns / ms: 998,993.01
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8154895
+TotalBytesAllocated - bytes: 520,136.00 ,bytes: /s 637,820.60 , ns / bytes: 1,567.84
+Elapsed Time - ms: 815.00 ,ms: /s 999.40 , ns / ms: 1,000,600.61
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8612185
+TotalBytesAllocated - bytes: 513,800.00 ,bytes: /s 596,596.57 , ns / bytes: 1,676.17
+Elapsed Time - ms: 861.00 ,ms: /s 999.75 , ns / ms: 1,000,253.77
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8262663
+TotalBytesAllocated - bytes: 513,704.00 ,bytes: /s 621,717.24 , ns / bytes: 1,608.45
+Elapsed Time - ms: 826.00 ,ms: /s 999.68 , ns / ms: 1,000,322.40
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8078221
+TotalBytesAllocated - bytes: 497,000.00 ,bytes: /s 615,234.47 , ns / bytes: 1,625.40
+Elapsed Time - ms: 808.00 ,ms: /s 1,000.22 , ns / ms: 999,779.83
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8160663
+TotalBytesAllocated - bytes: 505,616.00 ,bytes: /s 619,577.11 , ns / bytes: 1,614.00
+Elapsed Time - ms: 816.00 ,ms: /s 999.92 , ns / ms: 1,000,081.25
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8616815
+TotalBytesAllocated - bytes: 497,448.00 ,bytes: /s 577,299.15 , ns / bytes: 1,732.20
+Elapsed Time - ms: 862.00 ,ms: /s 1,000.37 , ns / ms: 999,630.51
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8125900
+TotalBytesAllocated - bytes: 497,520.00 ,bytes: /s 612,264.49 , ns / bytes: 1,633.28
+Elapsed Time - ms: 813.00 ,ms: /s 1,000.50 , ns / ms: 999,495.69
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8464232
+TotalBytesAllocated - bytes: 505,568.00 ,bytes: /s 597,299.32 , ns / bytes: 1,674.20
+Elapsed Time - ms: 846.00 ,ms: /s 999.50 , ns / ms: 1,000,500.24
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8138067
+TotalBytesAllocated - bytes: 505,664.00 ,bytes: /s 621,356.40 , ns / bytes: 1,609.38
+Elapsed Time - ms: 813.00 ,ms: /s 999.01 , ns / ms: 1,000,992.25
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7749187
+TotalBytesAllocated - bytes: 497,872.00 ,bytes: /s 642,482.88 , ns / bytes: 1,556.46
+Elapsed Time - ms: 775.00 ,ms: /s 1,000.10 , ns / ms: 999,895.10
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7776472
+TotalBytesAllocated - bytes: 497,568.00 ,bytes: /s 639,837.71 , ns / bytes: 1,562.90
+Elapsed Time - ms: 778.00 ,ms: /s 1,000.45 , ns / ms: 999,546.53
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8418430
+TotalBytesAllocated - bytes: 497,432.00 ,bytes: /s 590,884.52 , ns / bytes: 1,692.38
+Elapsed Time - ms: 842.00 ,ms: /s 1,000.19 , ns / ms: 999,813.54
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8840531
+TotalBytesAllocated - bytes: 505,632.00 ,bytes: /s 571,947.54 , ns / bytes: 1,748.41
+Elapsed Time - ms: 884.00 ,ms: /s 999.94 , ns / ms: 1,000,060.07
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8232374
+TotalBytesAllocated - bytes: 497,440.00 ,bytes: /s 604,248.54 , ns / bytes: 1,654.95
+Elapsed Time - ms: 824.00 ,ms: /s 1,000.93 , ns / ms: 999,074.51
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8360300
+TotalBytesAllocated - bytes: 505,896.00 ,bytes: /s 605,117.04 , ns / bytes: 1,652.57
+Elapsed Time - ms: 836.00 ,ms: /s 999.96 , ns / ms: 1,000,035.89
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7831242
+TotalBytesAllocated - bytes: 489,024.00 ,bytes: /s 624,452.67 , ns / bytes: 1,601.40
+Elapsed Time - ms: 783.00 ,ms: /s 999.84 , ns / ms: 1,000,158.62
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7759878
+TotalBytesAllocated - bytes: 497,768.00 ,bytes: /s 641,463.69 , ns / bytes: 1,558.93
+Elapsed Time - ms: 776.00 ,ms: /s 1,000.02 , ns / ms: 999,984.28
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8311903
+TotalBytesAllocated - bytes: 502,560.00 ,bytes: /s 604,626.88 , ns / bytes: 1,653.91
+Elapsed Time - ms: 832.00 ,ms: /s 1,000.97 , ns / ms: 999,026.80
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9075769
+TotalBytesAllocated - bytes: 499,272.00 ,bytes: /s 550,115.37 , ns / bytes: 1,817.80
+Elapsed Time - ms: 908.00 ,ms: /s 1,000.47 , ns / ms: 999,534.03
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7369272
+TotalBytesAllocated - bytes: 501,008.00 ,bytes: /s 679,860.91 , ns / bytes: 1,470.89
+Elapsed Time - ms: 737.00 ,ms: /s 1,000.10 , ns / ms: 999,901.22
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7411008
+TotalBytesAllocated - bytes: 593,512.00 ,bytes: /s 800,851.92 , ns / bytes: 1,248.67
+Elapsed Time - ms: 741.00 ,ms: /s 999.86 , ns / ms: 1,000,136.03
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8336820
+TotalBytesAllocated - bytes: 531,456.00 ,bytes: /s 637,480.48 , ns / bytes: 1,568.68
+Elapsed Time - ms: 833.00 ,ms: /s 999.18 , ns / ms: 1,000,818.73
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7783849
+TotalBytesAllocated - bytes: 492,712.00 ,bytes: /s 632,992.75 , ns / bytes: 1,579.80
+Elapsed Time - ms: 779.00 ,ms: /s 1,000.79 , ns / ms: 999,210.40
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7712807
+TotalBytesAllocated - bytes: 496,096.00 ,bytes: /s 643,210.70 , ns / bytes: 1,554.70
+Elapsed Time - ms: 772.00 ,ms: /s 1,000.93 , ns / ms: 999,068.26
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7918898
+TotalBytesAllocated - bytes: 493,904.00 ,bytes: /s 623,702.94 , ns / bytes: 1,603.33
+Elapsed Time - ms: 792.00 ,ms: /s 1,000.14 , ns / ms: 999,860.86
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7504520
+TotalBytesAllocated - bytes: 496,824.00 ,bytes: /s 662,033.01 , ns / bytes: 1,510.50
+Elapsed Time - ms: 751.00 ,ms: /s 1,000.73 , ns / ms: 999,270.31
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8065845
+TotalBytesAllocated - bytes: 504,136.00 ,bytes: /s 625,025.65 , ns / bytes: 1,599.93
+Elapsed Time - ms: 807.00 ,ms: /s 1,000.52 , ns / ms: 999,485.13
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8939453
+TotalBytesAllocated - bytes: 501,736.00 ,bytes: /s 561,260.29 , ns / bytes: 1,781.70
+Elapsed Time - ms: 894.00 ,ms: /s 1,000.06 , ns / ms: 999,938.81
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7946317
+TotalBytesAllocated - bytes: 497,104.00 ,bytes: /s 625,577.86 , ns / bytes: 1,598.52
+Elapsed Time - ms: 795.00 ,ms: /s 1,000.46 , ns / ms: 999,536.73
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7680808
+TotalBytesAllocated - bytes: 511,768.00 ,bytes: /s 666,294.48 , ns / bytes: 1,500.84
+Elapsed Time - ms: 768.00 ,ms: /s 999.89 , ns / ms: 1,000,105.21
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7996104
+TotalBytesAllocated - bytes: 503,240.00 ,bytes: /s 629,356.50 , ns / bytes: 1,588.92
+Elapsed Time - ms: 800.00 ,ms: /s 1,000.49 , ns / ms: 999,513.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7550753
+TotalBytesAllocated - bytes: 501,320.00 ,bytes: /s 663,933.78 , ns / bytes: 1,506.17
+Elapsed Time - ms: 755.00 ,ms: /s 999.90 , ns / ms: 1,000,099.74
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7365439
+TotalBytesAllocated - bytes: 515,048.00 ,bytes: /s 699,276.72 , ns / bytes: 1,430.05
+Elapsed Time - ms: 737.00 ,ms: /s 1,000.62 , ns / ms: 999,381.14
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7743381
+TotalBytesAllocated - bytes: 494,792.00 ,bytes: /s 638,987.03 , ns / bytes: 1,564.98
+Elapsed Time - ms: 774.00 ,ms: /s 999.56 , ns / ms: 1,000,436.82
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7688555
+TotalBytesAllocated - bytes: 494,824.00 ,bytes: /s 643,585.17 , ns / bytes: 1,553.80
+Elapsed Time - ms: 769.00 ,ms: /s 1,000.19 , ns / ms: 999,812.09
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7896409
+TotalBytesAllocated - bytes: 503,280.00 ,bytes: /s 637,353.00 , ns / bytes: 1,568.99
+Elapsed Time - ms: 789.00 ,ms: /s 999.19 , ns / ms: 1,000,812.29
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7510040
+TotalBytesAllocated - bytes: 500,968.00 ,bytes: /s 667,064.36 , ns / bytes: 1,499.11
+Elapsed Time - ms: 751.00 ,ms: /s 999.99 , ns / ms: 1,000,005.33
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7748063
+TotalBytesAllocated - bytes: 489,496.00 ,bytes: /s 631,765.64 , ns / bytes: 1,582.87
+Elapsed Time - ms: 775.00 ,ms: /s 1,000.25 , ns / ms: 999,750.06
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8393169
+TotalBytesAllocated - bytes: 505,896.00 ,bytes: /s 602,747.31 , ns / bytes: 1,659.07
+Elapsed Time - ms: 839.00 ,ms: /s 999.62 , ns / ms: 1,000,377.71
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8273071
+TotalBytesAllocated - bytes: 506,048.00 ,bytes: /s 611,680.96 , ns / bytes: 1,634.84
+Elapsed Time - ms: 827.00 ,ms: /s 999.63 , ns / ms: 1,000,371.34
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8295620
+TotalBytesAllocated - bytes: 505,688.00 ,bytes: /s 609,584.33 , ns / bytes: 1,640.46
+Elapsed Time - ms: 829.00 ,ms: /s 999.32 , ns / ms: 1,000,677.93
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7475253
+TotalBytesAllocated - bytes: 497,416.00 ,bytes: /s 665,416.94 , ns / bytes: 1,502.82
+Elapsed Time - ms: 747.00 ,ms: /s 999.30 , ns / ms: 1,000,703.21
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7732153
+TotalBytesAllocated - bytes: 505,288.00 ,bytes: /s 653,489.40 , ns / bytes: 1,530.25
+Elapsed Time - ms: 774.00 ,ms: /s 1,001.01 , ns / ms: 998,986.18
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8303728
+TotalBytesAllocated - bytes: 505,200.00 ,bytes: /s 608,401.43 , ns / bytes: 1,643.65
+Elapsed Time - ms: 831.00 ,ms: /s 1,000.76 , ns / ms: 999,245.25
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8524898
+TotalBytesAllocated - bytes: 521,744.00 ,bytes: /s 612,023.75 , ns / bytes: 1,633.92
+Elapsed Time - ms: 853.00 ,ms: /s 1,000.60 , ns / ms: 999,401.88
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7709358
+TotalBytesAllocated - bytes: 661,624.00 ,bytes: /s 858,208.95 , ns / bytes: 1,165.22
+Elapsed Time - ms: 771.00 ,ms: /s 1,000.08 , ns / ms: 999,916.73
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7956609
+TotalBytesAllocated - bytes: 538,336.00 ,bytes: /s 676,589.74 , ns / bytes: 1,478.00
+Elapsed Time - ms: 795.00 ,ms: /s 999.17 , ns / ms: 1,000,831.32
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7995915
+TotalBytesAllocated - bytes: 488,800.00 ,bytes: /s 611,312.15 , ns / bytes: 1,635.83
+Elapsed Time - ms: 800.00 ,ms: /s 1,000.51 , ns / ms: 999,489.38
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7664832
+TotalBytesAllocated - bytes: 497,816.00 ,bytes: /s 649,480.64 , ns / bytes: 1,539.69
+Elapsed Time - ms: 767.00 ,ms: /s 1,000.67 , ns / ms: 999,326.21
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7816641
+TotalBytesAllocated - bytes: 502,656.00 ,bytes: /s 643,058.83 , ns / bytes: 1,555.07
+Elapsed Time - ms: 782.00 ,ms: /s 1,000.43 , ns / ms: 999,570.46
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8654653
+TotalBytesAllocated - bytes: 514,096.00 ,bytes: /s 594,011.11 , ns / bytes: 1,683.47
+Elapsed Time - ms: 866.00 ,ms: /s 1,000.62 , ns / ms: 999,382.56
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8316431
+TotalBytesAllocated - bytes: 496,224.00 ,bytes: /s 596,679.03 , ns / bytes: 1,675.94
+Elapsed Time - ms: 832.00 ,ms: /s 1,000.43 , ns / ms: 999,571.03
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8707418
+TotalBytesAllocated - bytes: 503,512.00 ,bytes: /s 578,256.38 , ns / bytes: 1,729.34
+Elapsed Time - ms: 871.00 ,ms: /s 1,000.30 , ns / ms: 999,703.56
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7742247
+TotalBytesAllocated - bytes: 505,120.00 ,bytes: /s 652,420.41 , ns / bytes: 1,532.75
+Elapsed Time - ms: 774.00 ,ms: /s 999.71 , ns / ms: 1,000,290.31
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7503250
+TotalBytesAllocated - bytes: 505,984.00 ,bytes: /s 674,353.11 , ns / bytes: 1,482.90
+Elapsed Time - ms: 751.00 ,ms: /s 1,000.90 , ns / ms: 999,101.20
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7845442
+TotalBytesAllocated - bytes: 497,400.00 ,bytes: /s 633,998.70 , ns / bytes: 1,577.29
+Elapsed Time - ms: 785.00 ,ms: /s 1,000.58 , ns / ms: 999,419.36
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8090076
+TotalBytesAllocated - bytes: 505,336.00 ,bytes: /s 624,636.90 , ns / bytes: 1,600.93
+Elapsed Time - ms: 809.00 ,ms: /s 999.99 , ns / ms: 1,000,009.39
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8165728
+TotalBytesAllocated - bytes: 520,696.00 ,bytes: /s 637,660.23 , ns / bytes: 1,568.23
+Elapsed Time - ms: 817.00 ,ms: /s 1,000.52 , ns / ms: 999,477.11
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8744484
+TotalBytesAllocated - bytes: 525,512.00 ,bytes: /s 600,963.99 , ns / bytes: 1,663.99
+Elapsed Time - ms: 875.00 ,ms: /s 1,000.63 , ns / ms: 999,369.60
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7783908
+TotalBytesAllocated - bytes: 499,744.00 ,bytes: /s 642,021.98 , ns / bytes: 1,557.58
+Elapsed Time - ms: 778.00 ,ms: /s 999.50 , ns / ms: 1,000,502.31
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8356297
+TotalBytesAllocated - bytes: 503,184.00 ,bytes: /s 602,161.46 , ns / bytes: 1,660.68
+Elapsed Time - ms: 836.00 ,ms: /s 1,000.44 , ns / ms: 999,557.06
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7780369
+TotalBytesAllocated - bytes: 501,664.00 ,bytes: /s 644,781.76 , ns / bytes: 1,550.91
+Elapsed Time - ms: 778.00 ,ms: /s 999.95 , ns / ms: 1,000,047.43
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7430152
+TotalBytesAllocated - bytes: 496,832.00 ,bytes: /s 668,670.04 , ns / bytes: 1,495.51
+Elapsed Time - ms: 743.00 ,ms: /s 999.98 , ns / ms: 1,000,020.46
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8386714
+TotalBytesAllocated - bytes: 502,880.00 ,bytes: /s 599,615.06 , ns / bytes: 1,667.74
+Elapsed Time - ms: 839.00 ,ms: /s 1,000.39 , ns / ms: 999,608.34
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8399100
+TotalBytesAllocated - bytes: 511,480.00 ,bytes: /s 608,970.01 , ns / bytes: 1,642.12
+Elapsed Time - ms: 840.00 ,ms: /s 1,000.11 , ns / ms: 999,892.86
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8017266
+TotalBytesAllocated - bytes: 508,568.00 ,bytes: /s 634,340.93 , ns / bytes: 1,576.44
+Elapsed Time - ms: 802.00 ,ms: /s 1,000.34 , ns / ms: 999,659.10
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8197111
+TotalBytesAllocated - bytes: 511,816.00 ,bytes: /s 624,385.84 , ns / bytes: 1,601.57
+Elapsed Time - ms: 819.00 ,ms: /s 999.13 , ns / ms: 1,000,868.25
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7620102
+TotalBytesAllocated - bytes: 495,280.00 ,bytes: /s 649,965.05 , ns / bytes: 1,538.54
+Elapsed Time - ms: 762.00 ,ms: /s 999.99 , ns / ms: 1,000,013.39
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8598732
+TotalBytesAllocated - bytes: 510,616.00 ,bytes: /s 593,827.09 , ns / bytes: 1,683.99
+Elapsed Time - ms: 860.00 ,ms: /s 1,000.15 , ns / ms: 999,852.56
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7698244
+TotalBytesAllocated - bytes: 505,216.00 ,bytes: /s 656,274.34 , ns / bytes: 1,523.75
+Elapsed Time - ms: 770.00 ,ms: /s 1,000.23 , ns / ms: 999,771.95
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.1009894
+TotalBytesAllocated - bytes: 512,968.00 ,bytes: /s 465,915.48 , ns / bytes: 2,146.31
+Elapsed Time - ms: 1,101.00 ,ms: /s 1,000.01 , ns / ms: 999,990.37
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7456917
+TotalBytesAllocated - bytes: 504,120.00 ,bytes: /s 676,043.46 , ns / bytes: 1,479.19
+Elapsed Time - ms: 746.00 ,ms: /s 1,000.41 , ns / ms: 999,586.73
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7959845
+TotalBytesAllocated - bytes: 495,912.00 ,bytes: /s 623,017.16 , ns / bytes: 1,605.09
+Elapsed Time - ms: 796.00 ,ms: /s 1,000.02 , ns / ms: 999,980.53
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7710012
+TotalBytesAllocated - bytes: 497,344.00 ,bytes: /s 645,062.55 , ns / bytes: 1,550.24
+Elapsed Time - ms: 771.00 ,ms: /s 1,000.00 , ns / ms: 1,000,001.56
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8544507
+TotalBytesAllocated - bytes: 505,384.00 ,bytes: /s 591,472.39 , ns / bytes: 1,690.70
+Elapsed Time - ms: 855.00 ,ms: /s 1,000.64 , ns / ms: 999,357.54
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9009772
+TotalBytesAllocated - bytes: 496,984.00 ,bytes: /s 551,605.52 , ns / bytes: 1,812.89
+Elapsed Time - ms: 901.00 ,ms: /s 1,000.03 , ns / ms: 999,974.69
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7811100
+TotalBytesAllocated - bytes: 496,776.00 ,bytes: /s 635,987.25 , ns / bytes: 1,572.36
+Elapsed Time - ms: 781.00 ,ms: /s 999.86 , ns / ms: 1,000,140.85
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8026240
+TotalBytesAllocated - bytes: 685,672.00 ,bytes: /s 854,287.94 , ns / bytes: 1,170.57
+Elapsed Time - ms: 803.00 ,ms: /s 1,000.47 , ns / ms: 999,531.76
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7321420
+TotalBytesAllocated - bytes: 555,112.00 ,bytes: /s 758,202.64 , ns / bytes: 1,318.91
+Elapsed Time - ms: 732.00 ,ms: /s 999.81 , ns / ms: 1,000,193.99
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8233894
+TotalBytesAllocated - bytes: 513,480.00 ,bytes: /s 623,617.45 , ns / bytes: 1,603.55
+Elapsed Time - ms: 824.00 ,ms: /s 1,000.74 , ns / ms: 999,258.98
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8041589
+TotalBytesAllocated - bytes: 505,520.00 ,bytes: /s 628,631.98 , ns / bytes: 1,590.76
+Elapsed Time - ms: 804.00 ,ms: /s 999.80 , ns / ms: 1,000,197.64
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7600046
+TotalBytesAllocated - bytes: 496,864.00 ,bytes: /s 653,764.46 , ns / bytes: 1,529.60
+Elapsed Time - ms: 760.00 ,ms: /s 999.99 , ns / ms: 1,000,006.05
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8133142
+TotalBytesAllocated - bytes: 513,880.00 ,bytes: /s 631,834.54 , ns / bytes: 1,582.69
+Elapsed Time - ms: 814.00 ,ms: /s 1,000.84 , ns / ms: 999,157.49
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7859270
+TotalBytesAllocated - bytes: 505,928.00 ,bytes: /s 643,734.09 , ns / bytes: 1,553.44
+Elapsed Time - ms: 786.00 ,ms: /s 1,000.09 , ns / ms: 999,907.12
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7933430
+TotalBytesAllocated - bytes: 505,376.00 ,bytes: /s 637,020.81 , ns / bytes: 1,569.81
+Elapsed Time - ms: 793.00 ,ms: /s 999.57 , ns / ms: 1,000,432.53
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7867412
+TotalBytesAllocated - bytes: 513,648.00 ,bytes: /s 652,880.52 , ns / bytes: 1,531.67
+Elapsed Time - ms: 786.00 ,ms: /s 999.06 , ns / ms: 1,000,943.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8054530
+TotalBytesAllocated - bytes: 505,496.00 ,bytes: /s 627,592.17 , ns / bytes: 1,593.39
+Elapsed Time - ms: 806.00 ,ms: /s 1,000.68 , ns / ms: 999,321.34
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7890895
+TotalBytesAllocated - bytes: 497,248.00 ,bytes: /s 630,154.12 , ns / bytes: 1,586.91
+Elapsed Time - ms: 789.00 ,ms: /s 999.89 , ns / ms: 1,000,113.43
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7605416
+TotalBytesAllocated - bytes: 496,904.00 ,bytes: /s 653,355.45 , ns / bytes: 1,530.56
+Elapsed Time - ms: 761.00 ,ms: /s 1,000.60 , ns / ms: 999,397.63
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7914731
+TotalBytesAllocated - bytes: 505,536.00 ,bytes: /s 638,727.96 , ns / bytes: 1,565.61
+Elapsed Time - ms: 791.00 ,ms: /s 999.40 , ns / ms: 1,000,598.10
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7749840
+TotalBytesAllocated - bytes: 497,296.00 ,bytes: /s 641,685.51 , ns / bytes: 1,558.40
+Elapsed Time - ms: 775.00 ,ms: /s 1,000.02 , ns / ms: 999,979.35
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7476601
+TotalBytesAllocated - bytes: 505,360.00 ,bytes: /s 675,922.12 , ns / bytes: 1,479.46
+Elapsed Time - ms: 748.00 ,ms: /s 1,000.45 , ns / ms: 999,545.59
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7864189
+TotalBytesAllocated - bytes: 521,856.00 ,bytes: /s 663,585.27 , ns / bytes: 1,506.97
+Elapsed Time - ms: 787.00 ,ms: /s 1,000.74 , ns / ms: 999,261.63
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8447583
+TotalBytesAllocated - bytes: 505,736.00 ,bytes: /s 598,675.38 , ns / bytes: 1,670.35
+Elapsed Time - ms: 845.00 ,ms: /s 1,000.29 , ns / ms: 999,713.96
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.7844779
+TotalBytesAllocated - bytes: 513,800.00 ,bytes: /s 654,957.90 , ns / bytes: 1,526.82
+Elapsed Time - ms: 784.00 ,ms: /s 999.39 , ns / ms: 1,000,609.57
+--------------- END RUN ---------------
+
+--------------- RESULTS: TaskManager.NBench.NBenchTest+BenchmarkMethod_ElapsedTime ---------------
+--------------- DATA ---------------
+TotalBytesAllocated: Max: 702,192.00 bytes, Average: 496,718.94 bytes, Min: 466,592.00 bytes, StdDev: 22,817.95 bytes
+TotalBytesAllocated: Max / s: 886,918.72 bytes, Average / s: 622,704.15 bytes, Min / s: 327,544.64 bytes, StdDev / s: 48,217.68 bytes
+
+Elapsed Time: Max: 1,470.00 ms, Average: 801.22 ms, Min: 700.00 ms, StdDev: 58.10 ms
+Elapsed Time: Max / s: 1,001.35 ms, Average / s: 1,000.05 ms, Min / s: 998.82 ms, StdDev / s: 0.53 ms
+
+--------------- ASSERTIONS ---------------
+[PASS] Expected Elapsed Time to must be less than or equal to 60,000.00 ms; actual value was 801.22 ms.
+
+------------ FINISHED TaskManager.NBench.NBenchTest+BenchmarkMethod_ElapsedTime ----------
+------------ STARTING TaskManager.NBench.NBenchTest+BenchmarkMethod_GC ----------
+--------------- BEGIN WARMUP ---------------
+Elapsed: 00:00:00.0562342
+TotalCollections [Gen0] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 56,234,200.00
+TotalCollections [Gen1] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 56,234,200.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 56,234,200.00
+--------------- END WARMUP ---------------
+
+--------------- BEGIN WARMUP ---------------
+Elapsed: 00:00:00.0688311
+TotalCollections [Gen0] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 68,831,100.00
+TotalCollections [Gen1] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 68,831,100.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 68,831,100.00
+--------------- END WARMUP ---------------
+
+--------------- BEGIN WARMUP ---------------
+Elapsed: 00:00:00.0726773
+TotalCollections [Gen0] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 72,677,300.00
+TotalCollections [Gen1] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 72,677,300.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 72,677,300.00
+--------------- END WARMUP ---------------
+
+--------------- BEGIN WARMUP ---------------
+Elapsed: 00:00:00.0654203
+TotalCollections [Gen0] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 65,420,300.00
+TotalCollections [Gen1] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 65,420,300.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 65,420,300.00
+--------------- END WARMUP ---------------
+
+--------------- BEGIN WARMUP ---------------
+Elapsed: 00:00:00.0468382
+TotalCollections [Gen0] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 46,838,200.00
+TotalCollections [Gen1] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 46,838,200.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 46,838,200.00
+--------------- END WARMUP ---------------
+
+--------------- BEGIN WARMUP ---------------
+Elapsed: 00:00:00.0465501
+TotalCollections [Gen0] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 46,550,100.00
+TotalCollections [Gen1] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 46,550,100.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 46,550,100.00
+--------------- END WARMUP ---------------
+
+--------------- BEGIN WARMUP ---------------
+Elapsed: 00:00:00.0489199
+TotalCollections [Gen0] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 48,919,900.00
+TotalCollections [Gen1] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 48,919,900.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 48,919,900.00
+--------------- END WARMUP ---------------
+
+--------------- BEGIN WARMUP ---------------
+Elapsed: 00:00:00.0524071
+TotalCollections [Gen0] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 52,407,100.00
+TotalCollections [Gen1] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 52,407,100.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 52,407,100.00
+--------------- END WARMUP ---------------
+
+--------------- BEGIN WARMUP ---------------
+Elapsed: 00:00:00.0494088
+TotalCollections [Gen0] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 49,408,800.00
+TotalCollections [Gen1] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 49,408,800.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 49,408,800.00
+--------------- END WARMUP ---------------
+
+--------------- BEGIN WARMUP ---------------
+Elapsed: 00:00:00.0675763
+TotalCollections [Gen0] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 67,576,300.00
+TotalCollections [Gen1] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 67,576,300.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 67,576,300.00
+--------------- END WARMUP ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.0707624
+TotalCollections [Gen0] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 70,762,400.00
+TotalCollections [Gen1] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 70,762,400.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 70,762,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.0682311
+TotalCollections [Gen0] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 68,231,100.00
+TotalCollections [Gen1] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 68,231,100.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 68,231,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.0533584
+TotalCollections [Gen0] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 53,358,400.00
+TotalCollections [Gen1] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 53,358,400.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 53,358,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.0584312
+TotalCollections [Gen0] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 58,431,200.00
+TotalCollections [Gen1] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 58,431,200.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 58,431,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.0467044
+TotalCollections [Gen0] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 46,704,400.00
+TotalCollections [Gen1] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 46,704,400.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 46,704,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.0481113
+TotalCollections [Gen0] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 48,111,300.00
+TotalCollections [Gen1] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 48,111,300.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 48,111,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.0524833
+TotalCollections [Gen0] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 52,483,300.00
+TotalCollections [Gen1] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 52,483,300.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 52,483,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.0460997
+TotalCollections [Gen0] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 46,099,700.00
+TotalCollections [Gen1] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 46,099,700.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 46,099,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.0617526
+TotalCollections [Gen0] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 61,752,600.00
+TotalCollections [Gen1] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 61,752,600.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 61,752,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.0652200
+TotalCollections [Gen0] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 65,220,000.00
+TotalCollections [Gen1] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 65,220,000.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 65,220,000.00
+--------------- END RUN ---------------
+
+--------------- RESULTS: TaskManager.NBench.NBenchTest+BenchmarkMethod_GC ---------------
+--------------- DATA ---------------
+TotalCollections [Gen0]: Max: 0.00 collections, Average: 0.00 collections, Min: 0.00 collections, StdDev: 0.00 collections
+TotalCollections [Gen0]: Max / s: 0.00 collections, Average / s: 0.00 collections, Min / s: 0.00 collections, StdDev / s: 0.00 collections
+
+TotalCollections [Gen1]: Max: 0.00 collections, Average: 0.00 collections, Min: 0.00 collections, StdDev: 0.00 collections
+TotalCollections [Gen1]: Max / s: 0.00 collections, Average / s: 0.00 collections, Min / s: 0.00 collections, StdDev / s: 0.00 collections
+
+TotalCollections [Gen2]: Max: 0.00 collections, Average: 0.00 collections, Min: 0.00 collections, StdDev: 0.00 collections
+TotalCollections [Gen2]: Max / s: 0.00 collections, Average / s: 0.00 collections, Min / s: 0.00 collections, StdDev / s: 0.00 collections
+
+
+------------ FINISHED TaskManager.NBench.NBenchTest+BenchmarkMethod_GC ----------
+------------ STARTING TaskManager.NBench.NBenchTest+BenchmarkMethod_Memory ----------
+--------------- BEGIN WARMUP ---------------
+Elapsed: 00:00:00.9928948
+TotalBytesAllocated - bytes: 666,200.00 ,bytes: /s 670,967.36 , ns / bytes: 1,490.39
+--------------- END WARMUP ---------------
+
+--------------- BEGIN WARMUP ---------------
+Elapsed: 00:00:01.1096942
+TotalBytesAllocated - bytes: 673,152.00 ,bytes: /s 606,610.36 , ns / bytes: 1,648.50
+--------------- END WARMUP ---------------
+
+--------------- BEGIN WARMUP ---------------
+Elapsed: 00:00:01.0372542
+TotalBytesAllocated - bytes: 668,440.00 ,bytes: /s 644,432.19 , ns / bytes: 1,551.75
+--------------- END WARMUP ---------------
+
+--------------- BEGIN WARMUP ---------------
+Elapsed: 00:00:01.0537082
+TotalBytesAllocated - bytes: 659,224.00 ,bytes: /s 625,622.92 , ns / bytes: 1,598.41
+--------------- END WARMUP ---------------
+
+--------------- BEGIN WARMUP ---------------
+Elapsed: 00:00:00.9920072
+TotalBytesAllocated - bytes: 668,120.00 ,bytes: /s 673,503.18 , ns / bytes: 1,484.77
+--------------- END WARMUP ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0798407
+TotalBytesAllocated - bytes: 883,272.00 ,bytes: /s 817,965.09 , ns / bytes: 1,222.55
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0639434
+TotalBytesAllocated - bytes: 712,856.00 ,bytes: /s 670,013.09 , ns / bytes: 1,492.51
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0034737
+TotalBytesAllocated - bytes: 646,008.00 ,bytes: /s 643,771.73 , ns / bytes: 1,553.35
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0653489
+TotalBytesAllocated - bytes: 653,840.00 ,bytes: /s 613,733.21 , ns / bytes: 1,629.37
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0290772
+TotalBytesAllocated - bytes: 652,064.00 ,bytes: /s 633,639.54 , ns / bytes: 1,578.18
+--------------- END RUN ---------------
+
+--------------- RESULTS: TaskManager.NBench.NBenchTest+BenchmarkMethod_Memory ---------------
+--------------- DATA ---------------
+TotalBytesAllocated: Max: 883,272.00 bytes, Average: 709,608.00 bytes, Min: 646,008.00 bytes, StdDev: 100,791.96 bytes
+TotalBytesAllocated: Max / s: 817,965.09 bytes, Average / s: 675,824.53 bytes, Min / s: 613,733.21 bytes, StdDev / s: 82,006.10 bytes
+
+--------------- ASSERTIONS ---------------
+[PASS] Expected TotalBytesAllocated to must be less than or equal to 10,485,760.00 bytes; actual value was 709,608.00 bytes.
+
+------------ FINISHED TaskManager.NBench.NBenchTest+BenchmarkMethod_Memory ----------
+
+C:\Users\Administrator\.nuget\packages\nbench.runner\1.2.2\tools\netcoreapp2.1>
